@@ -1,0 +1,37 @@
+/* breakpoints */
+/* mobile */
+@media screen and (max-width: 576px) {
+  .navbar-toggler {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+/* dekstop */
+@media screen and (max-width: 768px) {
+  .navbar-responsive {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  nav.nav-con {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .search-translate {
+    margin: auto;
+  }
+
+  .navbar-toggler {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .image-card__company {
+    margin: auto;
+  }
+}

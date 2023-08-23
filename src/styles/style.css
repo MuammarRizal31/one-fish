@@ -1,0 +1,119 @@
+/* global */
+html,
+body {
+  overflow-x: hidden;
+}
+img {
+  width: 100%;
+}
+
+/* header */
+.logo-one-fish {
+  width: 50px;
+}
+
+/* navbar */
+
+.container-navbar {
+  width: 100%;
+  justify-content: space-between;
+  display: flex;
+}
+
+.search-translate {
+  width: 80px;
+  background-color: blue;
+  height: auto;
+  text-align: end;
+  margin-left: auto;
+}
+
+.nav-con {
+  display: flex;
+  flex-direction: column;
+}
+
+/* akhir header */
+
+/* carousel */
+
+.carousel-item > img {
+  border: thin #c0c0c0 solid;
+  height: auto;
+}
+
+.title-with-line {
+  display: flex;
+  align-items: center;
+}
+
+.line {
+  flex-grow: 1;
+  height: 2px;
+  background-color: black;
+}
+
+.title {
+  margin: 0 10px;
+}
+
+/* product section */
+.garis {
+  background-color: black;
+  height: 2px;
+  width: 100%;
+}
+
+/* product home section */
+
+.card-product__onefish {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.card-product__onefish > a {
+  border-radius: 50%;
+  border: thin #c0c0c0 solid;
+  padding: 3px;
+  transition: 0.4s;
+}
+
+.card-product__onefish > a:hover {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.card-product__onefish img {
+  border-radius: 50%;
+  width: 250px;
+  height: 250px;
+}
+
+/* Company */
+.image-card__company {
+  width: 50%;
+}
+
+.text-card__company {
+  font-size: 0.8rem;
+}
+
+.link__company {
+  color: black;
+  text-decoration: none;
+}
+
+.background-company {
+  height: 70vh;
+  background-position: bottom;
+  background-size: cover;
+  background-image: url("../public/background-company.jpg");
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.image-brand {
+  width: 100px;
+  height: 100px;
+}
