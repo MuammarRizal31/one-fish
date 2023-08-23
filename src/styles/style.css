@@ -1,4 +1,48 @@
 /* global */
+/* 
+40F8FF #biru
+F6F4EB #putih
+9BE8D8 #biru muda
+1A5D1A #hijau
+ */
+
+.text-one-fish {
+  color: #40f8ff;
+}
+
+.bg-one-fish {
+  background-color: #40f8ff;
+}
+
+.fading-line {
+  width: 100%;
+  height: 2px; /* Sesuaikan tinggi garis */
+  background: linear-gradient(to right, transparent, #000, transparent);
+}
+
+.logo-email {
+  border-radius: 50%;
+  width: 100px;
+}
+
+.box-footer {
+  width: 200px;
+  border: 1px solid black;
+  border-radius: 10px 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.box-footer > a {
+  text-decoration: none;
+  color: #428bca;
+}
+
+* {
+  scroll-behavior: smooth;
+}
+
 html,
 body {
   overflow-x: hidden;
@@ -50,7 +94,7 @@ img {
 .line {
   flex-grow: 1;
   height: 2px;
-  background-color: black;
+  background-color: #9be8d8;
 }
 
 .title {
@@ -59,7 +103,7 @@ img {
 
 /* product section */
 .garis {
-  background-color: black;
+  background-color: #40f8ff;
   height: 2px;
   width: 100%;
 }
@@ -116,4 +160,40 @@ img {
 .image-brand {
   width: 100px;
   height: 100px;
+}
+
+/* about us */
+.image-about__misi {
+  height: 300px;
+  overflow: hidden;
+}
+
+/* contact-us */
+.contact-us__text {
+  line-height: 1rem;
+}
+
+.contact-us__contact {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* text one fish footer */
+.text-one-fish__footer {
+  font-size: 0.9rem;
+}
+
+.text-one-fish__footer > p {
+  line-height: 12px;
+  margin-bottom: 0.5rem;
+}
+
+/* news */
+.link-title__news > a {
+  color: #e82c2d;
+  text-decoration: none;
+}
+
+.date-news {
+  margin: 0;
 }

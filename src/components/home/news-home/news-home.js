@@ -9,9 +9,10 @@ class NewsHome extends HTMLElement {
             <div class="container">
                 <div class="row align-items-center justify-content-around">
 
-                    <div class="col-12 col-md-6 ">
-                        <h1>LATEST NEWS</h1>
-                        <div class="card">
+                    <div class="col-12 col-md-6 mt-4">
+                        <h4 class="text-one-fish">LATEST NEWS</h4>
+                        <div class="garis"></div>
+                        <div class="card mt-3">
                             <img src="./icon-one-fish-2.jpeg" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <h5 class="card-title">Card title</h5>
@@ -21,9 +22,10 @@ class NewsHome extends HTMLElement {
                             </div>
                         </div>
 
-                    <div class="col-12 col-md-6">
-                        <h1>LATEST ARTICLES</h1>
-                        <div class="card">
+                    <div class="col-12 col-md-6 mt-4">
+                        <h4 class="text-one-fish">LATEST ARTICLES</h4>
+                        <div class="garis"></div>
+                        <div class="card mt-3">
                             <img src="./icon-one-fish-2.jpeg" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <h5 class="card-title">Card title</h5>

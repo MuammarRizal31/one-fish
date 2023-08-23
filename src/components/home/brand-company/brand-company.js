@@ -11,26 +11,26 @@ class BrandCompany extends HTMLElement {
 
                         <div class="col-lg-2 col-6"> 
                             <div class="image-brand mx-auto">
-                                <img src="./brand-company/brand.jpg" alt="image"/>
+                                <img src="./brand-company/image-1.png" alt="image"/>
                             </div>
                         </div>
                         
 
                         <div class="col-lg-2 col-6"> 
                             <div class="image-brand mx-auto">
-                                <img src="./brand-company/brand.jpg" alt="image"/>
+                                <img src="./brand-company/image-2.jpg" alt="image"/>
                             </div>
                         </div>
 
                         <div class="col-lg-2 col-6"> 
                             <div class="image-brand mx-auto">
-                                <img src="./brand-company/brand.jpg" alt="image"/>
+                                <img src="./brand-company/image-3.png" alt="image"/>
                             </div>
                         </div>
 
                         <div class="col-lg-2 col-6"> 
                             <div class="image-brand mx-auto">
-                                <img src="./brand-company/brand.jpg" alt="image"/>
+                                <img src="./brand-company/image-4.jpg" alt="image"/>
                             </div>
                         </div>
 

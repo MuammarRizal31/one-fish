@@ -8,7 +8,7 @@ module.exports = merge(common, {
   devServer: {
     static: path.resolve(__dirname, "app"),
     open: true,
-    port: 9000,
+    port: 1200,
     client: {
       overlay: {
         errors: true,

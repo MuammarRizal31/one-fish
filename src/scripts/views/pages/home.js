@@ -10,7 +10,7 @@ const Home = {
         <div class="container container-carousel">
             <div class="title-with-line">
                 <div class="line"></div>
-                    <h2 class="title mb-3">Judul One-Fish</h2>
+                    <h4 class="title mb-3 text-one-fish">High Quality Food for High Quality Fish</h4>
                 <div class="line">
             </div>
         </div>

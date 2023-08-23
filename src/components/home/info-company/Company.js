@@ -13,15 +13,17 @@ class Company extends HTMLElement {
                         <img src="./icon-one-fish-2.jpeg" alt="gambar"/>
                     </div>
                 
-                    <p class="text-card__company">"Dori sebetulnya itu sama dengan patin. Tapi umum mengetahui kalau namanya dori itu produk olahan dari luar. Yang produk Indonesia kita lebih sering menyebutnya dengan patin," Kata Edy Prabowo, Rabu (1/7/2020). Lebih lanjut, produsen diminta untuk memperjelas nama produk ikannya.</p>
+                    <p class="text-card__company">One Fish telah memulai bisnis barunya sejak bulan Oktober 2022. Di awal berdirinya, One Fish menyediakan kebutuhan pakan ikan hias dan pakan kering yang berkualitas tinggi yang didukung oleh mesin yang canggih dan sumber daya manusia yang unggul. Dengan umurnya yang baru sudah dapat menjangkau ke seluruh jaringan Nusantara sesuai kebutuhan dan permintaan pasar.
+                    One Fish berkomitmen dalam mengembangkan produk-produknya untuk menjadi yang terbaik di Tanah Air dan berdaya saing Internasional untuk mewujudkan sebuah ikan hias yang diidamkan bagi semua orang, Hal ini sesuai dengan tagline kami  “High Quality Food for High Quality Fish”. Dengan menunjukan bahwa One Fish memiliki Legalitas Merek dan diakui oleh Kementerian Hukum dan Hak Asasi Manusia.
+                    </p>
                 </div>
             </div>
-            <div class="row text-center">
-                <a class="text-card__company link__company" href="#">See More >></a>
+            <div class="row text-center mt-5">
+                <a class="text-card__company link__company" href="#/about-us">See More >></a>
             </div>
         </div>
     </div>
-    `;
+  `;
   }
 }
 

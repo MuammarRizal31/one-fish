@@ -1,7 +1,11 @@
+import "../../../components/news/news";
+import "../../../components/news/cards-news";
+
 const News = {
   async render() {
     return `
-        <h2>Hello News</h2>
+        <news-onefish></news-onefish>
+        <cards-news></cards-news>
     `;
   },
 

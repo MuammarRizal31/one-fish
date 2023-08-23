@@ -1,7 +1,8 @@
+import "../../../../components/products/butiran-pelet/butiran-pelet-component";
 const ButiranPelet = {
   async render() {
     return `
-        <h2>Hello ButiranPelet</h2>
+    <butiran-pelet></butiran-pelet>
     `;
   },
 
