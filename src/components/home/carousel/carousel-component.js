@@ -5,7 +5,7 @@ class CarouselComponent extends HTMLElement {
   render() {
     this.innerHTML = `
     <div class="row justify-content-center d-flex">
-    <div class="col-12 col-lg-8 ">
+    <div class="col-12 col-lg-12 ">
     <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel w-100">
         <div class="carousel-indicators">
             <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
