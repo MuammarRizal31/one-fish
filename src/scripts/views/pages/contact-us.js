@@ -4,7 +4,7 @@ const ContactUs = {
     <div class="container container-carousel my-3">
         <div class="title-with-line">
             <div class="line"></div>
-                <h2 class="title mb-3">Contact One-Fish</h2>
+                <h2 class="title mb-3 text-one-fish">Contact One-Fish</h2>
             <div class="line"></div>
         </div>
     </div>
@@ -22,7 +22,7 @@ const ContactUs = {
     <div class="container overflow-x-hidden"> 
         <div class="row">     
             <div class="col-12 mb-3"> 
-                <h4>CONTACT US</h4>
+                <h4 class="text-one-fish">CONTACT US</h4>
                 <div class="garis"></div>
             </div>
 
@@ -31,7 +31,7 @@ const ContactUs = {
             </div>
 
             <div class="col-12 col-md-5 contact-us__contact"> 
-              <h5>PT One-Fish</h5>
+              <h5 class="text-one-fish">PT One-Fish</h5>
               <div>
                 <h6 class="mb-1">Address : </h6>
                 <p class="contact-us__text">Jl. Tridharma Utama 2 No.19, RT.7/RW.12, Cilandak Bar., Kec. Cilandak, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12430</p>

@@ -19,7 +19,9 @@ class Company extends HTMLElement {
                 </div>
             </div>
             <div class="row text-center mt-5">
-                <a class="text-card__company link__company" href="#/about-us">See More >></a>
+              <div>
+                <a class="text-card__company link__company btn btn-blue__one-fish" href="#/about-us">See More >></a>
+              </div>
             </div>
         </div>
     </div>

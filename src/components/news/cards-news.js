@@ -4,7 +4,7 @@ class CardsNews extends HTMLElement {
         <div class="container">
 
             <div class="news-heading">
-                <h4>NEWS</h4>
+                <h4 class="text-one-fish">NEWS</h4>
                 <div class="garis mb-3"></div>
             </div>
 
@@ -27,7 +27,7 @@ class CardsNews extends HTMLElement {
                         </div>
                         
                         <div class="link-title__news mt-0">
-                            <a href="#">Judul Acara</a>
+                            <a href="#" class="text-one-fish">Judul Acara</a>
                             <div class="garis mb-3"></div>
                         </div>
 
@@ -64,7 +64,7 @@ class CardsNews extends HTMLElement {
                     </div>
                     
                     <div class="link-title__news mt-0">
-                        <a href="#">Judul Acara</a>
+                        <a href="#" class="text-one-fish">Judul Acara</a>
                         <div class="garis mb-3"></div>
                     </div>
 
@@ -101,7 +101,7 @@ class CardsNews extends HTMLElement {
                 </div>
                 
                 <div class="link-title__news mt-0">
-                    <a href="#">Judul Acara</a>
+                    <a href="#" class="text-one-fish">Judul Acara</a>
                     <div class="garis mb-3"></div>
                 </div>
 

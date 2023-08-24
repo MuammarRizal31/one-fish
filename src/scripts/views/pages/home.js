@@ -8,9 +8,9 @@ const Home = {
   async render() {
     return `
         <div class="container container-carousel">
-            <div class="title-with-line">
+            <div class="title-with-line mb-3">
                 <div class="line"></div>
-                    <h4 class="title mb-3 text-one-fish">High Quality Food for High Quality Fish</h4>
+                    <h2 class="title text-one-fish">High Quality Food for High Quality Fish</h2>
                 <div class="line">
             </div>
         </div>
