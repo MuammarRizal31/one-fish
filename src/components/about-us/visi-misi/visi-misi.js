@@ -75,7 +75,7 @@ class VisiMisi extends HTMLElement {
 
                 <div class="col-12 my-3"> 
                     <div class="logistic-distributor__about">
-                        <img src="./about-us/hero-section.jpg" alt="image" />
+                        <img src="./about-us/logistic company.jpeg" alt="image" />
                     </div>
                 </div>
 

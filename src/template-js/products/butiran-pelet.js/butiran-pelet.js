@@ -107,3 +107,19 @@ export const productItem = (title) => {
   </div>
   `;
 };
+
+export const productPelet = (img,text,title) => {
+  return `
+  <div class="col-12 col-lg-4">
+  <div class="card" style="width: 18rem;">
+    <img src="${img}" class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">${title}</h5>
+      <p class="card-text">${text}</p>
+      <a href="#/products=butiran-pelet?lohan-1" class="btn btn-primary">Lihat Selengkapnya</a>
+    </div>
+  </div>
+</div>
+
+  `
+}

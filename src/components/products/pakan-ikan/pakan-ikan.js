@@ -7,7 +7,7 @@ class PakanIkan extends HTMLElement {
     <div class="container container-carousel my-3">
             <div class="title-with-line">
                 <div class="line"></div>
-                    <h2 class="title mb-3 text-one-fish">PAKAN PELET</h2>
+                    <h2 class="title mb-3 text-one-fish">PELET KERING</h2>
                 <div class="line"></div>
             </div>
         </div>
