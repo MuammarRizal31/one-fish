@@ -13,11 +13,11 @@ class NewsHome extends HTMLElement {
                         <h4 class="text-one-fish">LATEST NEWS</h4>
                         <div class="garis"></div>
                         <div class="card mt-3">
-                            <img src="./icon-one-fish-2.jpeg" class="card-img-top" alt="...">
+                            <img src="./news/sertifikat channa contest.jpeg" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <h5 class="card-title">Card title</h5>
                                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                <a href="#" class="btn btn-blue__one-fish">Lihat Selengkapnya</a>
+                                <a href="#/news" class="btn btn-blue__one-fish">Lihat Selengkapnya</a>
                               </div>
                             </div>
                         </div>
@@ -26,11 +26,11 @@ class NewsHome extends HTMLElement {
                         <h4 class="text-one-fish">LATEST ARTICLES</h4>
                         <div class="garis"></div>
                         <div class="card mt-3">
-                            <img src="./icon-one-fish-2.jpeg" class="card-img-top" alt="...">
+                            <img src="./news/sertifikat siliwangi.jpeg" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <h5 class="card-title">Card title</h5>
                                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                <a href="#" class="btn btn-blue__one-fish">Lihat Selengkapnya</a>
+                                <a href="#/news" class="btn btn-blue__one-fish">Lihat Selengkapnya</a>
                             </div>
                         </div>
                     </div>

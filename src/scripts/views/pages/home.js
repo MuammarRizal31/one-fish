@@ -1,5 +1,4 @@
 import "../../../components/home/carousel/carousel-component";
-import "../../../components/home/brand-company/brand-company";
 import "../../../components/home/info-company/Company";
 import "../../../components/home/news-home/news-home";
 import "../../../components/home/products/product-component";
@@ -23,8 +22,6 @@ const Home = {
     <company-onefish> </company-onefish>
 
     <news-home> </news-home>
-
-    <brand-company> </brand-company>
     `;
   },
 

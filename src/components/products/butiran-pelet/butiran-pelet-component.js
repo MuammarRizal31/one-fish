@@ -1,5 +1,4 @@
-import { pakanKering } from "../../../scripts/data-one-fish/products/kering-pakan";
-import { accordionProduct, cardsProducts, productItem, sectionProducts } from "../../../template-js/products/butiran-pelet.js/butiran-pelet";
+import { productItem, sectionProducts } from "../../../template-js/products/butiran-pelet.js/butiran-pelet";
 import { heroSectionProduct } from "../../../template-js/products/header/hero-section";
 
 class ButiranPelet extends HTMLElement {
@@ -13,7 +12,11 @@ class ButiranPelet extends HTMLElement {
     <div class="container">
       <div class="row p-0 m-0">
         ${sectionProducts()}
-        ${productItem()}
+        ${productItem("CHANA")}
+        <div class="col-lg-2"> </div>
+        ${productItem("LOUHAN")}
+        <div class="col-lg-2"> </div>
+        ${productItem("IKAN GAPI")}
       </div>
     </div>
  

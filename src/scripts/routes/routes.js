@@ -6,6 +6,7 @@ import ContactUs from "../views/pages/contact-us";
 import News from "../views/pages/news";
 import Faq from "../views/pages/faq";
 import Detail from "../views/pages/detail";
+import Louhan from "../views/pages/products/Louhan/Louhan-1";
 
 const routes = {
   "/": Home,
@@ -17,6 +18,7 @@ const routes = {
   "/news": News,
   "/faq": Faq,
   "/detail/id": Detail,
+  "/products=butiran-pelet?lohan-1": Louhan,
 };
 
 export default routes;

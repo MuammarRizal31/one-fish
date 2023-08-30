@@ -1,7 +1,5 @@
-
-
-export const cardsProducts = ({image}) => {
-    return `
+export const cardsProducts = ({ image }) => {
+  return `
     <div class="col-12 col-md-6 col-lg-3 d-flex justify-content-center ">
     <div class="butiran-pelet">
         <div class="card" style="width: 18rem;">
@@ -18,11 +16,11 @@ export const cardsProducts = ({image}) => {
         </div>
         </div>
     </div>
-    `
-}
+    `;
+};
 
-export const accordionProduct = () =>{
-    return `
+export const accordionProduct = () => {
+  return `
     <div class="accordion" id="accordionPanelsStayOpenExample">
     <div class="accordion-item">
       <h2 class="accordion-header">
@@ -53,8 +51,8 @@ export const accordionProduct = () =>{
 
     
   </div>
-    `
-}
+    `;
+};
 
 export const sectionProducts = () => {
   return `
@@ -65,13 +63,15 @@ export const sectionProducts = () => {
       <a href="#" class="list-group-item list-group-item-action list-group-item-primary mt-2">PRODUCT 2</a>
     </div>
   </div>
-  `
+  `;
+};
 
-}
-
-export const productItem = () => {
+export const productItem = (title) => {
   return `
-  <div class="col-12 col-lg-10 d-flex justify-content-center align-items-center">
+  <div class="col-12 col-lg-10 d-flex justify-content-center align-items-center flex-column">
+  <div class="row mt-3">
+    <h3>${title}</h3>
+  </div>
       <div class="row">
         <div class="col-12 col-lg-4">
           <div class="card" style="width: 18rem;">
@@ -79,7 +79,7 @@ export const productItem = () => {
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="#" class="btn btn-primary">Go somewhere</a>
+              <a href="#/products=butiran-pelet?lohan-1" class="btn btn-primary">Go somewhere</a>
             </div>
           </div>
         </div>
@@ -105,5 +105,5 @@ export const productItem = () => {
         </div>
       </div>
   </div>
-  `
-}
+  `;
+};
