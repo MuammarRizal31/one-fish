@@ -108,18 +108,17 @@ export const productItem = (title) => {
   `;
 };
 
-export const productPelet = (img,text,title) => {
+export const productPelet = (img, des, title, namaIkan) => {
   return `
-  <div class="col-12 col-lg-4">
-  <div class="card" style="width: 18rem;">
-    <img src="${img}" class="card-img-top" alt="...">
+  <div class="col-12 col-lg-4 justify-content-center d-flex">
+  <div class="card">
+    <img src="${img}" class="card-img-top">
     <div class="card-body">
       <h5 class="card-title">${title}</h5>
-      <p class="card-text">${text}</p>
-      <a href="#/products=butiran-pelet?lohan-1" class="btn btn-primary">Lihat Selengkapnya</a>
+      <p class="card-text">${des}</p>
+      <a href="#/pakan-pelet/${namaIkan}" class="btn btn-primary">Lihat Selengkapnya</a>
     </div>
   </div>
 </div>
-
-  `
-}
+`;
+};

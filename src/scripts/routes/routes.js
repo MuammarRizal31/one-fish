@@ -7,6 +7,7 @@ import News from "../views/pages/news";
 import Faq from "../views/pages/faq";
 import Detail from "../views/pages/detail";
 import Louhan from "../views/pages/products/Louhan/Louhan-1";
+import PakanPeletFish from "../views/pages/pakanPeletFish";
 
 const routes = {
   "/": Home,
@@ -17,8 +18,9 @@ const routes = {
   "/contact-us": ContactUs,
   "/news": News,
   "/faq": Faq,
-  "/detail/id": Detail,
+  "/detail/:id": Detail,
   "/products=butiran-pelet?lohan-1": Louhan,
+  "/pakan-pelet/:id": PakanPeletFish,
 };
 
 export default routes;

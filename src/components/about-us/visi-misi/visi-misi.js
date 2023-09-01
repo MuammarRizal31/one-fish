@@ -29,7 +29,7 @@ class VisiMisi extends HTMLElement {
 
                 <div class="col-12"> 
                     <div class="image-about__misi">
-                        <img src="./about-us/hero-section.jpg" alt="image-about" />
+                        <img src="./about-us/kasih paka ikan.jpeg" alt="image-about" />
                     </div>
                 </div>
 

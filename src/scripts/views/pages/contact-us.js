@@ -13,7 +13,7 @@ const ContactUs = {
         <div class="row">     
             <div class="col-12"> 
                 <div class="card mb-3">
-                    <img src="./about-us/hero-section.jpg" class="card-img-top" alt="...">
+                    <img src="./home-image/Sampul Utama.png" class="card-img-top" alt="...">
                 </div>              
             </div>
         </div>

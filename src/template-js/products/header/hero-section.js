@@ -1,5 +1,5 @@
-export const heroSectionProduct = ()=> {
-    return `
+export const heroSectionProduct = () => {
+  return `
     <div class="container container-carousel my-3">
         <div class="title-with-line">
             <div class="line"></div>
@@ -15,5 +15,5 @@ export const heroSectionProduct = ()=> {
             </div>
         </div>
     </div>
-    `
-}
+    `;
+};
