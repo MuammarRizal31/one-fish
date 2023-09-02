@@ -30,15 +30,15 @@ export const detailSectionProduct = (title, img) => {
       `;
 };
 
-export const productPakanPelet = (img, title, des, namaIkan) => {
+export const productPakanPelet = (img, title, des, url) => {
   return `
-  <div class="col-12 col-lg-4 justify-content-center d-flex">
+  <div class="col-12 col-lg-4 justify-content-center d-flex mt-2">
   <div class="card">
     <img src="${img}" class="card-img-top">
     <div class="card-body">
       <h5 class="card-title">${title}</h5>
       <p class="card-text">${des}</p>
-      <a href="#/detail/${title}" class="btn btn-primary">Lihat Selengkapnya</a>
+      <a href="#/detail/${url}" class="btn btn-primary">Lihat Selengkapnya</a>
     </div>
   </div>
 </div>

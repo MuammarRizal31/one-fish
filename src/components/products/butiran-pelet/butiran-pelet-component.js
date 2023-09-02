@@ -1,21 +1,21 @@
-import { dataFish } from "../../../scripts/data-one-fish/products/pakan-pelet";
-import { productItem, productPelet, sectionProducts } from "../../../template-js/products/butiran-pelet.js/butiran-pelet";
+import { productPelet, sectionProducts } from "../../../template-js/products/butiran-pelet.js/butiran-pelet";
 import { heroSectionProduct } from "../../../template-js/products/header/hero-section";
-
+import imageContainer from '../../../public/products/Pakan-Pelet/Sampul Pakan Pelet.png'
+import { dataPeletPakan } from "../../../scripts/data-one-fish/products/pakan-pelet/pakan-pelet";
 class ButiranPelet extends HTMLElement {
   connectedCallback() {
     this.render();
   }
   render() {
     this.innerHTML = `
-    ${heroSectionProduct()}
+    ${heroSectionProduct(imageContainer)}
 
     <div class="container">
       <div class="row p-0 m-0">      
         ${sectionProducts()}
         <div class="col-12 col-lg-10 d-flex justify-content-center align-items-center flex-column">
           <div class="row mt-2">
-            <h3 class="text-one-fish">PAKAN PELET</h3>
+            
           </div>
           <div class="row g-2">
 
@@ -33,8 +33,8 @@ class ButiranPelet extends HTMLElement {
 
   appendFish() {
     let cards = "";
-    dataFish.forEach(({ img, des, title, namaIkan }) => {
-      cards += productPelet(img, des, title, namaIkan);
+    dataPeletPakan.forEach(({ image, des, title }) => {
+      cards += productPelet(image, des, title);
     });
     return cards;
   }

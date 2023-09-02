@@ -11,10 +11,8 @@ const ContactUs = {
 
     <div class="container"> 
         <div class="row">     
-            <div class="col-12"> 
-                <div class="card mb-3">
-                    <img src="./home-image/Sampul Utama.png" class="card-img-top" alt="...">
-                </div>              
+            <div class="col-12 mb-2"> 
+                <img src="./home-image/Sampul Utama.png" class="card-img-top" alt="Sampul">              
             </div>
         </div>
     </div>
@@ -34,7 +32,7 @@ const ContactUs = {
               <h5 class="text-one-fish">PT One-Fish</h5>
               <div>
                 <h6 class="mb-1">Address : </h6>
-                <p class="contact-us__text">Jl. Tridharma Utama 2 No.19, RT.7/RW.12, Cilandak Bar., Kec. Cilandak, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12430</p>
+                <p class="contact-us__text">Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12430</p>
               </div>
 
               <div> 

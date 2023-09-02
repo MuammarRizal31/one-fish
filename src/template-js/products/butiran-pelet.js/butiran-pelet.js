@@ -108,7 +108,7 @@ export const productItem = (title) => {
   `;
 };
 
-export const productPelet = (img, des, title, namaIkan) => {
+export const productPelet = (img, des, title) => {
   return `
   <div class="col-12 col-lg-4 justify-content-center d-flex">
   <div class="card">
@@ -116,7 +116,7 @@ export const productPelet = (img, des, title, namaIkan) => {
     <div class="card-body">
       <h5 class="card-title">${title}</h5>
       <p class="card-text">${des}</p>
-      <a href="#/pakan-pelet/${namaIkan}" class="btn btn-primary">Lihat Selengkapnya</a>
+      <a href="#/pakan-pelet/${title}" class="btn btn-primary">Lihat Selengkapnya</a>
     </div>
   </div>
 </div>
