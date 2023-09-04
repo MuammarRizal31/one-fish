@@ -45,16 +45,30 @@ export const productPakanPelet = (img, title, des, url) => {
   `;
 };
 
-export const templateDetailPage = (nama, des, img) => {
+export const templateDetailPage = (title, deskripsi, fungsi, nutrisi, komposisi, caraPakai, typeNetto) => {
   return `
-
-  <div class="card mb-3">
-  <img src="${img}" class="card-img-top" alt="...">
-  <div class="card-body">
-    <h5 class="card-title">${nama}</h5>
-    <p class="card-text">${des}</p>
-    <p class="card-text"><small class="text-body-secondary">${nama}</small></p>
-  </div>
-</div>
+  <table class="table table-success table-striped">
+  <thead>
+    <h1 class="text-center">${title}</h1>
+    <tr>
+      <th scope="col">Deskripsi</th>
+      <th scope="col">Fungsi</th>
+      <th scope="col">Nutrisi</th>
+      <th scope="col">Komposisi</th>
+      <th scope="col">Cara Pakai</th>
+      <th scope="col">Type Netto</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">${deskripsi}</th>
+      <td>${fungsi}</td>
+      <td>${nutrisi}</td>
+      <td>${komposisi}</td>
+      <td>${caraPakai}</td>
+      <td>${typeNetto}</td>
+    </tr>
+  </tbody>
+</table>
   `;
 };

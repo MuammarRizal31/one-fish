@@ -115,7 +115,6 @@ export const productPelet = (img, des, title) => {
     <img src="${img}" class="card-img-top">
     <div class="card-body">
       <h5 class="card-title">${title}</h5>
-      <p class="card-text">${des}</p>
       <a href="#/pakan-pelet/${title}" class="btn btn-primary">Lihat Selengkapnya</a>
     </div>
   </div>
