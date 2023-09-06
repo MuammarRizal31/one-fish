@@ -115,10 +115,10 @@ export const dataPeletPakan = [
 export const dataFish = {
   marine: [
     {
-      nama: "IMAGE MARINE PRIME",
-      des: "image marine prime",
+      nama: "MARINE PRIME",
+      des: "marine prime",
       img: imageMarinePrime,
-      url: "image-marine-prime",
+      url: "marine-prime",
       sampul: sampulImageMarine,
       title: "SPECIAL ONE FISH MARINE",
     },

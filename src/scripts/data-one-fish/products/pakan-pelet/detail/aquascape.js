@@ -9,7 +9,7 @@ const dataDetailAquascape = {
       komposisi: "High quality fish meal shrimp meal, wheat grem, wheat flour, yeast powder, one fish formula, Astaxanthin, krill meal, fish oil, attractant, vitamins, minerals.",
       caraPakai: `
                     1. Beri makan ikan 2 atau 4 kali perhari, berikan sedikit demi sedikit sesuai nafsu makan ikan, jangan terlalu berlebihan. <br/>
-                    2. Jika 5 menit pakan tidak di makan oleh ikan, buang supaya menjaga kualitas air tetap baik dan bersih.`,
+                    2. Jika  menit pakan tidak di makan oleh ikan, buang supaya menjaga kualitas air tetap baik dan bersih.`,
       typeNetto: `
                 Type : Micro Pellet
                     Netto :

@@ -26,7 +26,7 @@ class HeroSection extends HTMLElement {
                 <h2 class="text-one-fish">The Company</h2>
                 <div class="garis"></div>
                 <div class="col-12 my-3">
-                    <iframe width="100%" height="600" src="https://www.youtube.com/embed/l_wp-5QPF7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                   
                     <p class="mt-2">
                             One Fish telah memulai bisnis barunya sejak bulan Oktober 2022. Di awal berdirinya, One Fish    menyediakan kebutuhan pakan ikan hias dan pakan kering yang berkualitas tinggi yang didukung oleh mesin yang canggih dan sumber daya manusia yang unggul. Dengan umurnya yang baru sudah dapat menjangkau ke seluruh jaringan Nusantara sesuai kebutuhan dan permintaan pasar. 
                         </p>

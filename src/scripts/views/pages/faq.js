@@ -1,7 +1,9 @@
+import faqComp from "../../../components/faq/faq-component";
+
 const Faq = {
   async render() {
     return `
-        <h2>Hello Faq</h2>
+        ${faqComp()}
     `;
   },
 

@@ -1,5 +1,0 @@
-const DetailLouhan = {
-  render() {
-    return ``;
-  },
-};

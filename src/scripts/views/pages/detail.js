@@ -1,7 +1,6 @@
 import { templateDetailPage } from "../../../template-js/product-detail/template";
 import { heroSectionProduct } from "../../../template-js/products/header/hero-section";
-import bettaDetail from "../../data-one-fish/products/pakan-pelet/detail/betta";
-import dataDetailChanna from "../../data-one-fish/products/pakan-pelet/detail/channa";
+import dataDetailPakanPelet from "../../data-one-fish/products/dataDetailAll";
 import UrlParser from "../../routes/url-parser";
 
 const Detail = {
@@ -15,8 +14,8 @@ const Detail = {
   async afterRender() {
     const container = document.getElementById("container-one-fish__detail");
     const url = UrlParser.parseActiveUrlWithoutCombiner();
-    if (dataDetailChanna[url.id]) {
-      dataDetailChanna[url.id].map(({ title, deskripsi, fungsi, nutrisi, komposisi, caraPakai, typeNetto }) => {
+    if (dataDetailPakanPelet[url.id]) {
+      dataDetailPakanPelet[url.id].map(({ title, deskripsi, fungsi, nutrisi, komposisi, caraPakai, typeNetto }) => {
         return (container.innerHTML = templateDetailPage(title, deskripsi, fungsi, nutrisi, komposisi, caraPakai, typeNetto));
       });
     }

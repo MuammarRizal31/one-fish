@@ -1,0 +1,60 @@
+{
+  "id": "One Fish",
+  "start_url": "./index.html",
+  "name": "One Fish",
+  "short_name": "One Fish",
+  "description": "Menjadi Produsen pakan ikan hias yang menghasilkan produk unggulan dengan pengembangan bisnis yang berkelanjutan",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#D84315",
+  "icons": [
+    {
+      "src": "/icons/icon-one-fish-72x72.jpg",
+      "sizes": "72x72",
+      "type": "image/jpg",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-one-fish-96x96.jpg",
+      "sizes": "96x96",
+      "type": "image/jpg",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-one-fish-128x128.jpg",
+      "sizes": "128x128",
+      "type": "image/jpg",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-one-fish-144x144.jpg",
+      "sizes": "144x144",
+      "type": "image/jpg",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-one-fish-152x152.jpg",
+      "sizes": "152x152",
+      "type": "image/jpg",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-one-fish-192x192.jpg",
+      "sizes": "192x192",
+      "type": "image/jpg",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-one-fish-384x384.jpg",
+      "sizes": "384x384",
+      "type": "image/jpg",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-one-fish-512x512.jpg",
+      "sizes": "512x512",
+      "type": "image/jpg",
+      "purpose": "any"
+    }
+  ]
+}

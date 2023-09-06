@@ -46,7 +46,7 @@ class CardsNews extends HTMLElement {
 
                         </figure>
                     </div>
-                    <a href="#" type="button" class="btn btn-info text-end btn-news mt-auto">Lihat Selengkapnya</a>
+    
                 </div>
 
             </div>
@@ -83,7 +83,7 @@ class CardsNews extends HTMLElement {
 
                     </figure>
                 </div>
-                <a href="#" type="button" class="btn btn-info text-end btn-news mt-auto">Lihat Selengkapnya</a>
+
             </div>
 
         </div>
@@ -126,7 +126,6 @@ class CardsNews extends HTMLElement {
 
                 </figure>
             </div>
-            <a href="#" type="button" class="btn btn-info text-end btn-news mt-auto">Lihat Selengkapnya</a>
         </div>
 
     </div>
@@ -162,7 +161,6 @@ class CardsNews extends HTMLElement {
 
                 </figure>
             </div>
-            <a href="#" type="button" class="btn btn-info text-end btn-news mt-auto">Lihat Selengkapnya</a>
         </div>
 
     </div>
