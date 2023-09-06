@@ -15,7 +15,7 @@ class News extends HTMLElement {
         <div class="container"> 
             <div class="row">     
                 <div class="col-12 mb-3"> 
-                    <img src="./home-image/Sampul Utama.png" class="card-img-top" alt="...">
+                    <img src="./home-image/Sampul Utama.png" class="card-img-top" alt="Sampul-image">
                 </div>
             </div>
         </div>

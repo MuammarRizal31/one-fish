@@ -12,14 +12,14 @@ class ProductComponent extends HTMLElement {
 
               <div class="col-sm-12 col-md-6 card-product__onefish"> 
                 <a href="#/products=pelet-pakan" class="img-product__home"> 
-                <img src="./home-image/Pakan Pelet.png" alt="image"/>
+                <img src="./home-image/Pakan Pelet.png" alt="image-1"/>
                 </a>
                 <p>PELET PAKAN</p>
               </div>
               
               <div class="col-sm-12 col-md-6 card-product__onefish"> 
               <a href="#/products=pakan-kering" class="img-product__home"> 
-              <img src="./home-image/pakan kering.jpg" alt="image"/>
+              <img src="./home-image/pakan kering.jpg" alt="image-2"/>
                 </a>
                 <p>PAKAN KERING</p>
               </div>
