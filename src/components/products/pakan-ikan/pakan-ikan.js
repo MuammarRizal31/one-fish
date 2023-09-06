@@ -1,25 +1,42 @@
+import { dataPakanKering } from "../../../scripts/data-one-fish/products/pakan-kering/kering-pakan";
+import { sectionProducts } from "../../../template-js/products/butiran-pelet.js/butiran-pelet";
+import { heroSectionProduct } from "../../../template-js/products/header/hero-section";
+import { productPakan } from "../../../template-js/products/pakan-kering/pakan-kering-template";
+
 class PakanIkan extends HTMLElement {
   connectedCallback() {
     this.render();
   }
   render() {
     this.innerHTML = `
-    <div class="container container-carousel my-3">
-            <div class="title-with-line">
-                <div class="line"></div>
-                    <h2 class="title mb-3 text-one-fish">PELET KERING</h2>
-                <div class="line"></div>
-            </div>
-        </div>
+    ${heroSectionProduct()}
 
-        <div class="container"> 
-            <div class="row">     
-                <div class="col-12 mb-3"> 
-                    <img src="./home-image/Sampul Utama.png" class="card-img-top" alt="...">
-                </div>
-            </div>
+    <div class="container">
+      <div class="row p-0 m-0">      
+        ${sectionProducts()}
+        <div class="col-12 col-lg-10 d-flex justify-content-center align-items-center flex-column">
+          <div class="row mt-2">
+            
+          </div>
+          <div class="row g-2">
+
+          ${this.appendFish()}
+          
+            
         </div>
+        <div class="col-lg-2"> </div>
+        
+      </div>
+    </div>
+ 
     `;
+  }
+  appendFish(){
+    let cards = "";
+    dataPakanKering.forEach(({ image, des, title,url }) => {
+      cards += productPakan(image, des, title,url);
+    });
+    return cards;
   }
 }
 

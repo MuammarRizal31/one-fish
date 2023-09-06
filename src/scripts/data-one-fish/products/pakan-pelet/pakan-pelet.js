@@ -67,48 +67,57 @@ import imageMarinePrime from "../../../../public/products/Pakan-Pelet/Marine/ite
 export const dataPeletPakan = [
   {
     image: imageLouhan,
-    title: "Louhan",
+    title: "SPECIAL ONE FISH LOUHAN",
     des: "Deskripsi",
+    url: 'Louhan'
   },
   {
     image: imageBetta,
-    title: "Betta",
+    title: "SPECIAL ONE FISH BETTA",
     des: "Deskripsi",
+    url:'Betta'
   },
   {
     image: imageAquascape,
-    title: "Aquascape",
+    title: "SPECIAL AQUASCAPE FISH & SHRIMP",
     des: "Deskripsi",
+    url: 'Aquascape'
   },
   {
     image: imageChanna,
-    title: "Channa",
+    title: "SPECIAL ONE FISH CHANNA",
     des: "Deskripsi",
+    url: 'Channa'
   },
   {
     image: imageCichild,
-    title: "Cichlid",
+    title: "SPECIAL ONE FISH CICHLID",
     des: "Deskripsi",
+    url: 'Cichlid'
   },
   {
     image: imageDiscus,
-    title: "Discus",
+    title: "SPECIAL ONE FISH DISCUS",
     des: "Deskripsi",
+    url: 'Discus'
   },
   {
     image: imageGoldfish,
-    title: "Goldfish",
+    title: "SPECIAL ONE FISH GOLDFISH",
     des: "Deskripsi",
+    url: 'Goldfish'
   },
   {
     image: imageGuppy,
-    title: "Guppy",
+    title: "SPECIAL ONE FISH GUPPY",
     des: "Deskripsi",
+    url: 'Guppy'
   },
   {
     image: imageMarine,
-    title: "Marine",
+    title: "SPECIAL ONE FISH MARINE",
     des: "Deskripsi",
+    url: 'Marine'
   },
 ];
 
@@ -152,7 +161,7 @@ export const dataFish = {
   goldfish: [
     {
       nama: "GOLDFISH BLACK PRIME",
-      des: "goldfish black prime",
+      des: "One Fish Black Prime Goldfish Pellet merupakan salah satu pakan ikan koki yang terbuat dari bahan berkualitas tinggi. Pakan ini mengandung Jeroan Cumi yang mampu mencerahkan warna hitam ikan secara maksimal. Jenis pelet mengambang yang tidak akan membuat air keruh",
       img: imageGoldfishBlackPrime,
       url: "goldfish-black-prime",
       sampul: sampulImageGoldfish,
@@ -176,7 +185,7 @@ export const dataFish = {
     },
     {
       nama: "GOLDFISH GROWTH PRIME",
-      des: "goldfish growth prime",
+      des: "One Fish Growth Prime Goldfish Pellet merupakan pakan ikan yang terbuat dari bahan berkualitas tinggi. Diformulasikan dengan standar tinggi dan komposisi nutrisi terbaik untuk Mendukung pertumbuhan dan kesejahteraan Ikan. Formula Spirulina dan Ekstrak Grarlic berfungsi memperbaiki warna Ikan Mas agar bersinar",
       img: imageGoldfishGrowthPrime,
       url: "goldfish-growth-prime",
       sampul: sampulImageGoldfish,
@@ -222,7 +231,7 @@ export const dataFish = {
   channa: [
     {
       nama: "CHANNA BLACK PRIME",
-      des: "CHANNA-1",
+      des: "One Fish Black Prime Channa terbuat dari bahan-bahan berkualitas tinggi. Diformulasikan dengan standar tinggi dan komposisi nutrisi terbaik untuk mendukung pertumbuhan dan kesejahteraan channa. Mengandung Jeroan Cumi yang mampu mencerahkan warna hitam ikan secara maksimal.",
       img: imageChannaBlackPrime,
       url: "channa-black-prime",
       sampul: sampulImageChanna,

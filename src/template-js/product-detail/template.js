@@ -36,7 +36,7 @@ export const productPakanPelet = (img, title, des, url) => {
   <div class="card">
     <img src="${img}" class="card-img-top">
     <div class="card-body">
-      <h5 class="card-title">${title}</h5>
+      <h5 class="card-title text-one-fish">${title}</h5>
       <p class="card-text">${des}</p>
       <a href="#/detail/${url}" class="btn btn-primary">Lihat Selengkapnya</a>
     </div>
@@ -45,30 +45,46 @@ export const productPakanPelet = (img, title, des, url) => {
   `;
 };
 
-export const templateDetailPage = (title, deskripsi, fungsi, nutrisi, komposisi, caraPakai, typeNetto) => {
+export const templateDetailPage = (image,title, deskripsi, fungsi, nutrisi, komposisi, caraPakai, typeNetto) => {
   return `
-  <table class="table table-success table-striped">
-  <thead>
-    <h1 class="text-center">${title}</h1>
-    <tr>
-      <th scope="col">Deskripsi</th>
-      <th scope="col">Fungsi</th>
-      <th scope="col">Nutrisi</th>
-      <th scope="col">Komposisi</th>
-      <th scope="col">Cara Pakai</th>
-      <th scope="col">Type Netto</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope="row">${deskripsi}</th>
-      <td>${fungsi}</td>
-      <td>${nutrisi}</td>
-      <td>${komposisi}</td>
-      <td>${caraPakai}</td>
-      <td>${typeNetto}</td>
-    </tr>
-  </tbody>
-</table>
+  <div class="container">
+    <div class="row">
+    <div class="col-12">
+      <h3 class="text-one-fish">${title}</h3>
+      <div class="garis"> </div>
+    </div>
+      <div class="card mb-3 border-none mt-3">
+        <img src="${image}" class="m-auto card-img-top img-fluid image-section" alt="${title}">
+        <div class="card-body">
+          <p class="card-text">${deskripsi}</p>
+
+          <br/>
+
+          <h5 class="text-one-fish">FUNGSI</h5>
+          <p>${fungsi}</p>
+
+          <br/>
+
+          <h5 class="text-one-fish">NUTRISI</h5>
+          <p>${nutrisi}</p>
+
+          <br/>
+
+          <h5 class="text-one-fish">KOMPOSISI</h5>
+          <p>${komposisi}</p>
+
+          <br/>
+
+          <h5 class="text-one-fish">CARA PAKAI</h5>
+          <p>${caraPakai}</p>
+
+          <br/>
+
+          <h5 class="text-one-fish">TYPE NETTO</h5>
+          <p>${typeNetto}</p>
+        </div>
+      </div>
+    </div>
+  </div>
   `;
 };

@@ -1,6 +1,14 @@
+import imageGoldfishBluck from '../../../../../public/products/Pakan-Pelet/goldfish/item-goldfish-image/GOLDFISH BLUCK PRIME.png'
+import imageGoldfishBlack from '../../../../../public/products/Pakan-Pelet/goldfish/item-goldfish-image/GOLDFISH BLACK PRIME.png'
+import imageGoldfishColor from '../../../../../public/products/Pakan-Pelet/goldfish/item-goldfish-image/GOLDFISH COLOR PRIME.png'
+import imageGoldfishGrowth from '../../../../../public/products/Pakan-Pelet/goldfish/item-goldfish-image/GOLDFISH GROWTH PRIME.png'
+import imageSampul from '../../../../../public/products/Pakan-Pelet/goldfish/GOLDFIS.png'
+
 const dataGoldfishDetail = {
   "goldfish-bluck-prime": [
     {
+      imageSampul: imageSampul,
+      image: imageGoldfishBluck,
       title: "One Fish Bulk Prime Goldfish Pellet",
       deskripsi:
         "One Fish Bulk Prime Goldfish Pellet merupakan salah satu pakan ikan koki yang terbuat dari bahan berkualitas tinggi vitamin, kalsium dan mineral menopang perkembangan lengkap dan pertumbuhan ikan koki. Pakan ini mengandung Mineral & Spirulina yang dapat membentuk body koki menjadi lebih gemuk dan padat.",
@@ -23,6 +31,8 @@ const dataGoldfishDetail = {
   ],
   "goldfish-color-prime": [
     {
+      imageSampul: imageSampul,
+      image: imageGoldfishColor,
       title: "Goldfish Color Prime",
       deskripsi: "One Fish Goldfish Color Prime Pellet merupakan pakan ikan koki yang mengandung Astaxanthin & Spirulina yang dapat meningkatkan warna ikan menjadi lebih merah.",
       fungsi: `
@@ -39,6 +49,54 @@ const dataGoldfishDetail = {
       Type : Floating / Mengapung
         Netto :
             1. 100 gram - M Rp 23.000
+        `,
+    },
+  ],
+  "goldfish-black-prime": [
+    {
+      imageSampul: imageSampul,
+      image: imageGoldfishBlack,
+      title: "Goldfish Black Prime",
+      deskripsi: "One Fish Black Prime Goldfish Pellet merupakan salah satu pakan ikan koki yang terbuat dari bahan berkualitas tinggi. Pakan ini mengandung Jeroan Cumi yang mampu mencerahkan warna hitam ikan secara maksimal. Jenis pelet mengambang yang tidak akan membuat air keruh",
+      fungsi: `
+          1. Meningkatkan warna ikan Koki supaya menjadi lebih hitam dan cerah.
+        `,
+      nutrisi: "Protein 42%, Fat 6%, Fibre 4%, Ash 6%, Moisture 10%",
+      komposisi: "High quality fish oil, asam amino, enzim, one fish formula, extract garlic, spirulina, attractant, vitamins, minerals.",
+      caraPakai: `
+      1. Beri makan ikan 2 atau 4 kali perhari, berikan sedikit demi sedikit sesuai nafsu makan ikan, jangan terlalu berlebihan. <br/>
+      2. Jika 5 menit pakan tidak di makan oleh ikan, buang supaya menjaga kualitas air tetap baik dan bersih.
+        `,
+      typeNetto: `
+      Type : Floating / Mengapung
+        Netto : <br/>
+          1. 100 gram - S <br/>
+          2. 100 gram - M <br/>
+          3. 100 gram - L
+        `,
+    },
+  ],
+  "goldfish-growth-prime": [
+    {
+      imageSampul: imageSampul,
+      image: imageGoldfishGrowth,
+      title: "Goldfish Growth Prime",
+      deskripsi: "One Fish Growth Prime Goldfish Pellet merupakan pakan ikan yang terbuat dari bahan berkualitas tinggi. Diformulasikan dengan standar tinggi dan komposisi nutrisi terbaik untuk Mendukung pertumbuhan dan kesejahteraan Ikan. Formula Spirulina dan Ekstrak Grarlic berfungsi memperbaiki warna Ikan Mas agar bersinar",
+      fungsi: `
+          1. Meningkatkan perkembangan dan pertumbuhan ikan koki secara maksimal
+        `,
+      nutrisi: "Protein 40%, Fat 6%, Fibre 4%, Ash 6%, Moisture 10%",
+      komposisi: "High quality fish oil, asam amino, enzim, one fish formula, extract garlic, spirulina, attractant, vitamins, minerals.",
+      caraPakai: `
+        1. Beri makan ikan 2 atau 4 kali perhari, berikan sedikit demi sedikit sesuai nafsu makan ikan, jangan terlalu berlebihan. <br/>
+        2. Jika 5 menit pakan tidak di makan oleh ikan, buang supaya menjaga kualitas air tetap baik dan bersih.
+        `,
+      typeNetto: `
+      Type : Sinking / Tenggelam 
+        Netto : <br/>
+          1. 100 gram - S <br/>
+          2. 100 gram - M <br/>
+          3. 100 gram - L
         `,
     },
   ],

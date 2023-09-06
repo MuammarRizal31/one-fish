@@ -1,6 +1,14 @@
+import louhanImageSection1 from '../../../../../public/products/Pakan-Pelet/Louhan/louhan-image-item/LOUHAN PEARL PRIME.png'
+import louhanImageSection2 from '../../../../../public/products/Pakan-Pelet/Louhan/louhan-image-item/LOUHAN COLLOR PRIME.png'
+import louhanImageSection3 from '../../../../../public/products/Pakan-Pelet/Louhan/louhan-image-item/LOUHAN GROWTH PRIME.png'
+import louhanImageSection4 from '../../../../../public/products/Pakan-Pelet/Louhan/louhan-image-item/LOUHAN HEAD PRIME.png'
+import sampulImage from '../../../../../public/products/Pakan-Pelet/Louhan/1. Louhan.png'
+
 const louhanDetail = {
   "louhan-pearl-prime": [
     {
+      imageSampul: sampulImage,
+      image: louhanImageSection1,
       title: "One Fish Pearl Prime Louhan Pellet",
       deskripsi: "One Fish Pearl Prime Louhan Pellet merupakan pakan ikan Louhan yang terbuat dari bahan berkualitas tinggi dan memiliki protein penting untuk pertumbuhan louhan agar ",
       fungsi: ` 1. Meningkatkan mutiara pada Louhan dengan maksimal <br />
@@ -18,6 +26,8 @@ const louhanDetail = {
   ],
   "louhan-growth-prime": [
     {
+      imageSampul: sampulImage,
+      image: louhanImageSection3,
       title: "One Fish Growth Prime Louhan Pellet",
       deskripsi: "One Fish Growth Prime Louhan Pellet merupakan pakan ikan louhan yang memiliki multivitamin, spirulina dan mineral berkualitas tinggi yang dapat membantu",
       fungsi: ` 1. Meningkatkan perkembangan dan pertumbuhan Louhan secara maksimal <br />
@@ -36,6 +46,8 @@ const louhanDetail = {
   ],
   "louhan-head-prime": [
     {
+      imageSampul: sampulImage,
+      image: louhanImageSection4,
       title: "One Fish Head Prime Louhan Pellet",
       deskripsi: "One Fish Head Prime Louhan Pellet merupakan pakan ikan louhan yang memiliki kandungan protein & kalsium tinggi untuk memaksimal petumbuhan jenong pada louhan.",
       fungsi: ` 1. Secara efektf memaksimalkan pertembuhan jenong pada Louhan <br/>
@@ -53,6 +65,8 @@ const louhanDetail = {
   ],
   "louhan-collor-prime": [
     {
+      imageSampul: sampulImage,
+      image: louhanImageSection2,
       title: "One Fish Color Prime Louhan Pellet",
       deskripsi: "One Fish Color Prime Louhan Pellet merupakan pakan ikan louhan yang mengandung Astaxanthin & penambah warna alami yang akan meningkatkan warna asli louhan menjadi lebih baik dan merah.",
       fungsi: ` 1. Meningkatkan warna merah alami pada Louhan secara efektif <br/>

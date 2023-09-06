@@ -1,6 +1,8 @@
+import imageDiscusSection from '../../../../../public/products/Pakan-Pelet/Discus/item-discus-image/DISCUS PELLET.png'
 const dataDiscusDetail = {
   "discus-pellet": [
     {
+      image: imageDiscusSection,
       title: "Discus Multicolor Prime",
       deskripsi:
         "One Fish Colorful Prime Discus Pellet merupakan salah satu pakan ikan discus yang terbuat dari bahan berkualitas tinggi vitamin dan nutriai terbaik untuk membantu pertumbuhan lengkap ikan discus. Pakan ini mengandung Mineral & Spirulina yang dapat meningkatkan warna discus menjadi lebih baik.",

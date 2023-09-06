@@ -6,7 +6,8 @@ import dataDiscusDetail from "./pakan-pelet/detail/discus";
 import dataGuppyDetail from "./pakan-pelet/detail/guppy";
 import louhanDetail from "./pakan-pelet/detail/louhan-detail";
 import dataMarineDetail from "./pakan-pelet/detail/marinePrime";
+import dataGoldfishDetail from "./pakan-pelet/detail/goldfish";
 
-const dataDetailPakanPelet = { ...dataDiscusDetail, ...dataDetailAquascape, ...bettaDetail, ...dataDetailChanna, ...dataCichlidDetail, ...dataDetailAquascape, ...dataGuppyDetail, ...louhanDetail, ...dataMarineDetail };
+const dataDetailPakanPelet = { ...dataDiscusDetail, ...dataDetailAquascape, ...bettaDetail, ...dataDetailChanna, ...dataCichlidDetail, ...dataDetailAquascape, ...dataGuppyDetail, ...louhanDetail, ...dataMarineDetail,...dataGoldfishDetail};
 
 export default dataDetailPakanPelet;

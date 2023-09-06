@@ -7,6 +7,7 @@ import News from "../views/pages/news";
 import Faq from "../views/pages/faq";
 import Detail from "../views/pages/detail";
 import PakanPeletFish from "../views/pages/pakanPeletFish";
+import PakanKeringPages from "../views/pages/pakanKeringPages";
 
 const routes = {
   "/": Home,
@@ -19,6 +20,7 @@ const routes = {
   "/faq": Faq,
   "/detail/:id": Detail,
   "/pakan-pelet/:id": PakanPeletFish,
+  "/pakan-kering/:id": PakanKeringPages,
 };
 
 export default routes;

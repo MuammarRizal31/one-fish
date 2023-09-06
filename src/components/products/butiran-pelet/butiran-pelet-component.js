@@ -33,8 +33,8 @@ class ButiranPelet extends HTMLElement {
 
   appendFish() {
     let cards = "";
-    dataPeletPakan.forEach(({ image, des, title }) => {
-      cards += productPelet(image, des, title);
+    dataPeletPakan.forEach(({ image, des, title,url }) => {
+      cards += productPelet(image, des, title,url);
     });
     return cards;
   }

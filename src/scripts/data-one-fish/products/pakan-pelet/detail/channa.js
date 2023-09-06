@@ -1,6 +1,15 @@
+import channaImageBlack from '../../../../../public/products/Pakan-Pelet/Channa/sampul-chana-image/CHANNA BLACK PRIME.png'
+import channaImageBlue from '../../../../../public/products/Pakan-Pelet/Channa/sampul-chana-image/CHANNA BLUE PRIME.png'
+import channaImageRed from '../../../../../public/products/Pakan-Pelet/Channa/sampul-chana-image/CHANNA RED PRIME.png'
+import channaImageSpecial from '../../../../../public/products/Pakan-Pelet/Channa/sampul-chana-image/CHANNA SPECIAL COLORFUL.png'
+import channaImageYellow from '../../../../../public/products/Pakan-Pelet/Channa/sampul-chana-image/CHANNA YELLOW PRIME.png'
+import imageSampul from '../../../../../public/products/Pakan-Pelet/Channa/2. Channa.png'
+
 const dataDetailChanna = {
   "channa-blue-prime": [
     {
+      imageSampul: imageSampul,
+      image: channaImageBlue,
       title: "One Fish Channa Blue Prime ",
       deskripsi: "Channa yang mempunyai kualitas tinggi dan komposisi nutrisi terbaik untuk mendukung pertumbuhan channa, mengandung Phycocyanin & Spirulina yang dapat meningkatkan warna channa menjadi lebih biru.",
       fungsi: `
@@ -24,6 +33,8 @@ const dataDetailChanna = {
   ],
   "channa-yellow-prime": [
     {
+      imageSampul: imageSampul,
+      image: channaImageYellow,
       title: "One Fish Yellow Prime Channa Pellet",
       deskripsi:
         "One Fish Yellow Prime Channa Pellet merupakan pakan ikan channa yang terbuat dari bahan yang berkualitas tinggi dan mempunyai komposisi nutrisi yang baik untuk mendukung pertumbuhan channa, mengandung Zeaxanthin & Spirulina yang dapat meningkatkan warna channa menjadi lebih kuning.",
@@ -49,6 +60,8 @@ const dataDetailChanna = {
   ],
   "channa-red-prime": [
     {
+      imageSampul: imageSampul,
+      image: channaImageRed,
       title: "One Fish Red Prime Channa Pellet",
       deskripsi:
         "One Fish Red Prime Channa Pellet merupakan pakan ikan channa yang memiliki kualitas tinggi dan komposisi nutrisi terbaik untuk mendukung pertumbuhan channa. Mengandung Astaxanthin & Spirulina yang dapat meningkatkan warna channa menjadi lebih merah",
@@ -75,6 +88,8 @@ const dataDetailChanna = {
   ],
   "channa-colorful-prime": [
     {
+      imageSampul: imageSampul,
+      image: channaImageSpecial,
       title: "One Fish Colorful Channa Pellet",
       deskripsi:
         "One Fish Colorful Channa Pellet merupakan pakan ikan yang terbuat dari bahan yang berkualitas tinggi dan komposisi nutrisi yang terbaik untuk mendukung pertumbuhan channa, mengandung Mineral & Spirulina yang dapat meningkatkan warna channa menjadi lebih baik.",
@@ -98,18 +113,26 @@ const dataDetailChanna = {
   ],
   "channa-black-prime": [
     {
-      title: "Template",
-      deskripsi: "belum ada data",
+      imageSampul: imageSampul,
+      image: channaImageBlack,
+      title: "One Fish Black Prime Channa",
+      deskripsi: "One Fish Black Prime Channa terbuat dari bahan-bahan berkualitas tinggi. Diformulasikan dengan standar tinggi dan komposisi nutrisi terbaik untuk mendukung pertumbuhan dan kesejahteraan channa. Mengandung Jeroan Cumi yang mampu mencerahkan warna hitam ikan secara maksimal. ",
       fungsi: `
-          not found
+          1. Meningkatkan warna hitam pada Channa <br/>
+          2. Mendukung pertumbuhan juga sistem imun pada Channa
         `,
-      nutrisi: "not found",
-      komposisi: "not found",
+      nutrisi: "Protein 42%, Fat 6%, Fibre 4%, Ash 6%, Moisture 10%",
+      komposisi: "High quality fish oil, asam amino, enzim, one fish formula, squid offal, attractant, vitamins, minerals.",
       caraPakai: `
-      not found
-          `,
+        1. Beri makan ikan 2 atau 4 kali perhari, berikan sedikit demi sedikit sesuai nafsu makan ikan, jangan terlalu berlebihan. <br/>
+        2. Jika 5 menit pakan tidak di makan oleh ikan, buang supaya menjaga kualitas air tetap baik dan bersih.
+      `,
       typeNetto: `
-      not found
+        Type : Floating / Mengapung
+          Netto : <br/>
+            1. 100 gram - S <br/>
+            2. 100 gram - M <br/>
+            3. 100 gram - L
           `,
     },
   ],
