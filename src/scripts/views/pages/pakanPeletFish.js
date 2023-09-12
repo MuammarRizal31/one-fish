@@ -30,14 +30,11 @@ const PakanPeletFish = {
   afterRender() {
     const url = UrlParser.parseActiveUrlWithoutCombiner();
     const container = document.querySelector(".container-one-fish__pakan");
-    const bannerOnefish = document.querySelector('.banner-one-fish');
+    const bannerOnefish = document.querySelector(".banner-one-fish");
 
     if (dataFish[url.id]) {
-      dataFish[url.id].map(({ nama, des, img,url,sampul,title }) => {
-        return (
-          container.innerHTML += productPakanPelet(img, nama, des,url),
-          bannerOnefish.innerHTML = heroSectionProduct(sampul,title)
-          );
+      dataFish[url.id].map(({ nama, des, img, url, sampul, title }) => {
+        return (container.innerHTML += productPakanPelet(img, nama, des, url)), (bannerOnefish.innerHTML = heroSectionProduct(sampul, title));
       });
     }
   },

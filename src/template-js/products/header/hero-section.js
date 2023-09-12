@@ -1,4 +1,4 @@
-export const heroSectionProduct = (image="./home-image/Sampul Utama.png",title="PELET PAKAN") => {
+export const heroSectionProduct = (image = "./home-image/Sampul Utama.png", title = "PAKAN PELET") => {
   return `
     <div class="container container-carousel my-3">
         <div class="title-with-line">
@@ -10,7 +10,7 @@ export const heroSectionProduct = (image="./home-image/Sampul Utama.png",title="
 
     <div class="container"> 
         <div class="row">     
-            <div class="col-12 mb-3"> 
+            <div class="col-12 mb-3 shadow p-3 mb-5 bg-body rounded"> 
                 <img src="${image}" class="card-img-top" alt="hero section">
             </div>
         </div>

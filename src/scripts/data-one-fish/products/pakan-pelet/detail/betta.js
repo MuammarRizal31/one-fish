@@ -1,15 +1,15 @@
-import imageBettaSectionBlue from '../../../../../public/products/Pakan-Pelet/Betta/item-betta-image/BETTA BLUE PRIME.png'
-import imageBettaSectionMulticolor from '../../../../../public/products/Pakan-Pelet/Betta/item-betta-image/BETTA MULTICOLOR PRIME.png'
-import imageBettaSectionRed from '../../../../../public/products/Pakan-Pelet/Betta/item-betta-image/BETTA RED PRIME.png'
-import imageBettaSectionYellow from '../../../../../public/products/Pakan-Pelet/Betta/item-betta-image/BETTA YELLOW PRIME.png'
-import imageSampul from '../../../../../public/products/Pakan-Pelet/Betta/3. Betta.png'
+import imageBettaSectionBlue from "../../../../../public/products/Pakan-Pelet/Betta/item-betta-image/BETTA BLUE PRIME.png";
+import imageBettaSectionMulticolor from "../../../../../public/products/Pakan-Pelet/Betta/item-betta-image/BETTA MULTICOLOR PRIME.png";
+import imageBettaSectionRed from "../../../../../public/products/Pakan-Pelet/Betta/item-betta-image/BETTA RED PRIME.png";
+import imageBettaSectionYellow from "../../../../../public/products/Pakan-Pelet/Betta/item-betta-image/BETTA YELLOW PRIME.png";
+import imageSampul from "../../../../../public/products/Pakan-Pelet/Betta/3. Betta.png";
 
 const bettaDetail = {
   "betta-red-prime": [
     {
-      imageSampul : imageSampul,
+      imageSampul: imageSampul,
       image: imageBettaSectionRed,
-      title: "One Fish Red Prime Betta Pellet",
+      title: "Betta Red Prime",
       deskripsi: "One Fish Red Prime Betta Pellet merupakan pakan khusus Betta berwarna merah. Dengan kandungan Asthaxanthin dan spiruluna yang berkualitas tinggi untuk meningkatkan kecerahan dan warna merah pada betta. ",
       fungsi: ` 1. Meningkatkan warna merah pada Betta <br/>
                 2. Mendukung pertumbuhan juga sistem imun pada Betta`,
@@ -19,16 +19,16 @@ const bettaDetail = {
                 1. Beri makan ikan 2 atau 4 kali perhari, berikan sedikit demi sedikit sesuai nafsu makan ikan, jangan terlalu berlebihan. <br/>
                 2. Jika 5 menit pakan tidak di makan oleh ikan, buang supaya menjaga kualitas air tetap baik dan bersih.`,
       typeNetto: `
-            Type : Micro Pellet
-                Netto :
+            Type : Micro Pellet <br/>
+                Netto : <br/>
                 1. 50 gram - S `,
     },
   ],
   "betta-multicolor-prime": [
     {
-      imageSampul : imageSampul,
+      imageSampul: imageSampul,
       image: imageBettaSectionMulticolor,
-      title: "One Fish Multicolor Prime Betta Pellet",
+      title: "Betta Multicolor Prime",
       deskripsi:
         "One Fish Multicolor Prime Betta Pellet merupakan pakan ikan cupang yang mempunyai kualitas tinggi dan komposisi nutrisi terbaik untuk mendukung pertumbuhan cupang, mangandung Mineral & Spirulina dan memakai bahan yang super lengkap supaya cupang mempunyai tampilan warna yang terbaik.",
       fungsi: ` 1. Meningkatkan warna pada Betta secara efektif <br/>
@@ -40,16 +40,16 @@ const bettaDetail = {
                 <br/>
                 2. Jika 5 menit pakan tidak di makan oleh ikan, buang supaya menjaga kualitas air tetap baik dan bersih.`,
       typeNetto: `
-        Type : Micro Pellet
-            Netto :
+        Type : Micro Pellet <br/>
+            Netto : <br/>
             1. 50 gram - S `,
     },
   ],
   "betta-blue-prime": [
     {
-      imageSampul : imageSampul,
+      imageSampul: imageSampul,
       image: imageBettaSectionBlue,
-      title: "One Fish Blue Betta Prime Pellet",
+      title: "Betta Blue Prime",
       deskripsi:
         "One Fish Blue Betta Prime Pellet merupakan pakan ikan cupang yang terbuat dari bahan berkualitas tinggi dan memiliki komposisi nutrisi terbaik untuk mendukung pertumbuhan warna cupang, mengandung Phycocyanin & Spirulina yang dapat maningkatkan warna asli cupang menjadi lebih biru.",
       fungsi: ` 1. Meningkatkan warna biru pada Betta <br/>
@@ -60,16 +60,16 @@ const bettaDetail = {
             1. Beri makan ikan 2 atau 3 kali perhari, berikan sedikit demi sedikit sesuai nafsu makan ikan, jangan terlalu berlebihan. <br/>
             2. Jika 5 menit pakan tidak di makan oleh ikan, buang supaya menjaga kualitas air tetap baik dan bersih.`,
       typeNetto: `
-        Type : Micro Pellet
-            Netto :
+        Type : Micro Pellet <br/>
+            Netto : <br/>
             1. 50 gram - S `,
     },
   ],
   "betta-yellow-prime": [
     {
-      imageSampul : imageSampul,
+      imageSampul: imageSampul,
       image: imageBettaSectionYellow,
-      title: "One Fish Yellow Betta Prime Guppy pellet",
+      title: "Betta Yellow Prime",
       deskripsi: `One Fish Yellow Betta Prime Guppy pellet merupakan pakan ikan cupang yang terbuat dari bahan berkualitas tinggi dan memiliki komposisi nutrisi terbaik untuk mendukung pertumbuhan cupang, mengandung Zeaxanthin & Spirulina yang dapat meningkatkan warna cupang menjadi lebih kuning.`,
       fungsi: ` 1. Meningkatkan warna kuning pada Betta <br/>
                 2. Mendukung pertumbuhan juga sistem imun pada Betta`,
@@ -79,8 +79,8 @@ const bettaDetail = {
             1. Beri makan ikan 2 atau 4 kali perhari, berikan sedikit demi sedikit sesuai nafsu makan ikan, jangan terlalu berlebihan.<br/>
             2. Jika 5 menit pakan tidak di makan oleh ikan, buang supaya menjaga kualitas air tetap baik dan bersih.`,
       typeNetto: `
-        Type : Micro Pellet
-            Netto :
+        Type : Micro Pellet <br/>
+            Netto : <br/>
             1. 50 gram - S 
         `,
     },

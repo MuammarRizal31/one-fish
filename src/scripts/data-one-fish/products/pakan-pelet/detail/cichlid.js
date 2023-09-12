@@ -1,14 +1,14 @@
-import imageCichlidBlue from '../../../../../public/products/Pakan-Pelet/Cichild/item-cichild-image/CICHLID BLUE PRIME.png'
-import imageCichlidRed from '../../../../../public/products/Pakan-Pelet/Cichild/item-cichild-image/CICHLID RED PRIME.png'
-import imageCichlidYellow from '../../../../../public/products/Pakan-Pelet/Cichild/item-cichild-image/CICHLID YELLOW PRIME.png'
+import imageCichlidBlue from "../../../../../public/products/Pakan-Pelet/Cichild/item-cichild-image/CICHLID BLUE PRIME.png";
+import imageCichlidRed from "../../../../../public/products/Pakan-Pelet/Cichild/item-cichild-image/CICHLID RED PRIME.png";
+import imageCichlidYellow from "../../../../../public/products/Pakan-Pelet/Cichild/item-cichild-image/CICHLID YELLOW PRIME.png";
 
-import imageSampul from '../../../../../public/products/Pakan-Pelet/Cichild/6. Cichlid.png'
+import imageSampul from "../../../../../public/products/Pakan-Pelet/Cichild/6. Cichlid.png";
 const dataCichlidDetail = {
   "cichlid-blue-prime": [
     {
       imageSampul: imageSampul,
       image: imageCichlidBlue,
-      title: "One Fish Blue Prime Cichlid Pellet",
+      title: "Cichlid Blue Prime",
       deskripsi:
         "One Fish Blue Prime Cichlid Pellet merupakan pakan ikan cichlid yang terbuat dari bahan berkualitas tinggi dan memiliki komposisi nutrisi terbaik untuk mendukung pertumbuhan cichlid, mengandung Phycocyanin & Spirulina yang dapat meningkatkan warna ikan menjadi lebih biru.",
       fungsi: `
@@ -21,8 +21,8 @@ const dataCichlidDetail = {
             2. Jika 5 menit pakan tidak di makan oleh ikan, buang supaya menjaga kualitas air tetap baik dan bersih.
           `,
       typeNetto: `
-        Type : Floating / Mengapung
-            Netto :
+        Type : Floating / Mengapung <br/>
+            Netto : <br/>
                 1. 100 gram - S 
           `,
     },
@@ -31,7 +31,7 @@ const dataCichlidDetail = {
     {
       imageSampul: imageSampul,
       image: imageCichlidYellow,
-      title: "One Fish Yellow Prime Cichlid",
+      title: "Cichlid Yellow Prime",
       deskripsi:
         "One Fish Yellow Prime Cichlid merupakan pakan ikan Cichlid yang terbuat dari bahan berkualitas tinggi dan memiliki komposisi nutrisi terbaik untuk mendukung pertumbuhan cichlid, mengandung Zeaxanthin & Spirulina yang dapat maningkatkan warna cichlid menjadi lebih kuning.",
       fungsi: `
@@ -45,8 +45,8 @@ const dataCichlidDetail = {
             2. Jika 5 menit pakan tidak di makan oleh ikan, buang supaya menjaga kualitas air tetap baik dan bersih.
             `,
       typeNetto: `
-      Type : Floating / Mengapung
-        Netto :
+      Type : Floating / Mengapung <br/>
+        Netto : <br/>
             1. 100 gram - S 
         `,
     },
@@ -55,7 +55,7 @@ const dataCichlidDetail = {
     {
       imageSampul: imageSampul,
       image: imageCichlidRed,
-      title: "One Fish Red Cichild Prime Pellet",
+      title: "Cichlid Red Prime",
       deskripsi:
         "One Fish Red Cichild Prime Pellet merupakan pakan ikan cichild yang terbuat dari bahan berkualitas tinggi dan memiliki komposisi nutrisi terbaik untuk mendukung pertumbuhan warna cichlid, mengandung Astaxanthin & Spirulina yang dapat meningkatkan warna ikan menjadi lebih merah.",
       fungsi: `
@@ -69,8 +69,8 @@ const dataCichlidDetail = {
             2. Jika 5 menit pakan tidak di makan oleh ikan, buang supaya menjaga kualitas air tetap baik dan bersih.
               `,
       typeNetto: `
-      Type : Floating / Mengapung
-        Netto :
+      Type : Floating / Mengapung <br/>
+        Netto : <br/>
             1. 100 gram - S 
           `,
     },

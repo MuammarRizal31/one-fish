@@ -1,11 +1,12 @@
-import imageSampul from '../../../../../public/products/Pakan-Pelet/Marine/Artboard 9.png'
+import imageSampul from "../../../../../public/products/Pakan-Pelet/Marine/item-marine-image/MARINE PRIME.png";
 const dataMarineDetail = {
   "marine-prime": [
     {
       imageSampul: imageSampul,
       image: imageSampul,
-      title: "One Fish Marine Prime",
-      deskripsi: "One Fish Marine Prime terbuat dari bahan-bahan berkualitas tinggi. Diformulasikan dengan standar tinggi dan komposisi nutrisi terbaik untuk Mendukung pertumbuhan dan kesejahteraan ikan Laut. Formula Spirulina dan Ekstrak Grarlic berfungsi memperbaiki warna ikan laut menjadi bersinar",
+      title: "Marine Prime",
+      deskripsi:
+        "One Fish Marine Prime terbuat dari bahan-bahan berkualitas tinggi. Diformulasikan dengan standar tinggi dan komposisi nutrisi terbaik untuk Mendukung pertumbuhan dan kesejahteraan ikan Laut. Formula Spirulina dan Ekstrak Grarlic berfungsi memperbaiki warna ikan laut menjadi bersinar",
       fungsi: `
           1. Memperbaiki warna ikan laut menjadi bersinar 
         `,
@@ -16,7 +17,7 @@ const dataMarineDetail = {
       2. Jika 5 menit pakan tidak di makan oleh ikan, buang supaya menjaga kualitas air tetap baik dan bersih.
         `,
       typeNetto: `
-      Type: Sinking / Tenggelam 
+      Type: Sinking / Tenggelam  <br/>
         Netto : <br/>
           1. 100 gram - S <br/>
           2. 100 gram - M <br/>  

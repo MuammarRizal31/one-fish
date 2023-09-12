@@ -1,5 +1,3 @@
-
-
 export const accordionProduct = () => {
   return `
     <div class="accordion" id="accordionPanelsStayOpenExample">
@@ -89,7 +87,7 @@ export const sectionProducts = () => {
       <div class="accordion-body">
       <ul class="list-group">
       <li class="list-group-item">
-        <a href="#/pakan-kering/baby-shrimp" class="text-side-bar">Baby Shrimp</a>
+        <a href="#/pakan-kering/baby-shrimp" class="text-side-bar">BABY SHRIMP</a>
       </li>
       <li class="list-group-item">
         <a href="#/pakan-kering/worm" class="text-side-bar">WORM</a>
@@ -104,7 +102,7 @@ export const sectionProducts = () => {
         <a href="#/pakan-kering/shrimp" class="text-side-bar">SHRIMP</a>
       </li>
       <li class="list-group-item">
-        <a href="#/pakan-kering/wealworm" class="text-side-bar">WEALWORM</a>
+        <a href="#/pakan-kering/mealworm" class="text-side-bar">MEALWORM</a>
       </li>
       <li class="list-group-item">
         <a href="#/pakan-kering/superworm" class="text-side-bar">SUPERWORM</a>
@@ -118,13 +116,14 @@ export const sectionProducts = () => {
   `;
 };
 
-export const productPelet = (img, des, title,url) => {
+export const productPelet = (img, des, title, url) => {
   return `
   <div class="col-12 col-lg-4 justify-content-center d-flex">
   <div class="card">
     <img src="${img}" class="card-img-top">
     <div class="card-body">
       <h5 class="card-title text-one-fish">${title}</h5>
+      <p class="card-text">${des}</p>
       <a href="#/pakan-pelet/${url}" class="btn btn-primary">Lihat Selengkapnya</a>
     </div>
   </div>

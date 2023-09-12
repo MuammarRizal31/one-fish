@@ -1,14 +1,14 @@
-import imageGuppyBlue from '../../../../../public/products/Pakan-Pelet/Guppy/item-guppy-image/GUPPY BLUE PRIME.png'
-import imageGuppyRed from '../../../../../public/products/Pakan-Pelet/Guppy/item-guppy-image/GUPPY RED PRIME.png'
-import imageGuppyYellow from '../../../../../public/products/Pakan-Pelet/Guppy/item-guppy-image/GUPPY YELLOW PRIME.png'
+import imageGuppyBlue from "../../../../../public/products/Pakan-Pelet/Guppy/item-guppy-image/GUPPY BLUE PRIME.png";
+import imageGuppyRed from "../../../../../public/products/Pakan-Pelet/Guppy/item-guppy-image/GUPPY RED PRIME.png";
+import imageGuppyYellow from "../../../../../public/products/Pakan-Pelet/Guppy/item-guppy-image/GUPPY YELLOW PRIME.png";
 
-import imageSampul from '../../../../../public/products/Pakan-Pelet/Guppy/4. Guppy.png'
+import imageSampul from "../../../../../public/products/Pakan-Pelet/Guppy/4. Guppy.png";
 const dataGuppyDetail = {
   "guppy-blue-prime": [
     {
       imageSampul: imageSampul,
       image: imageGuppyBlue,
-      title: "One Fish Blue Prime Guppy Pellet",
+      title: "Guppy Blue Prime",
       deskripsi:
         "One Fish Blue Prime Guppy Pellet merupakan pakan ikan yang terbuat dari bahan berkualitas tinggi dan memiliki komposisi nutrisi terbaik untuk mendukung pertumbuhan warna guppy, mengandung Phycocyanin & Spirulina yang dapat meningkatkan warna guppy menjadi lebih biru.",
       fungsi: `
@@ -24,8 +24,8 @@ const dataGuppyDetail = {
             2. Jika 5 menit pakan tidak di makan oleh ikan, buang supaya menjaga kualitas air tetap baik dan bersih.
         `,
       typeNetto: `
-      Type : Micro Pellet
-        Netto :
+      Type : Micro Pellet <br/>
+        Netto : <br/>
             1. 50 gram - S 
         `,
     },
@@ -34,7 +34,7 @@ const dataGuppyDetail = {
     {
       imageSampul: imageSampul,
       image: imageGuppyRed,
-      title: "One Fish Red Prime Guppy Pellet",
+      title: "Guppy Red Prime",
       deskripsi:
         "One Fish Red Prime Guppy merupakan pakan ikan guppy yang terbuat dari bahan berkualitas tinggi dan memiliki komposisi nutrisi terbaik untuk mendukung pertumbuhan warna guppy, mengandung Astaxanthin & Spirulina yang dapat meningkatkan warna guppy menjadi lebih merah.",
       fungsi: `
@@ -50,8 +50,8 @@ const dataGuppyDetail = {
             2. Jika 5 menit pakan tidak di makan oleh ikan, buang supaya menjaga kualitas air tetap baik dan bersih.
         `,
       typeNetto: `
-      Type : Micro Pellet
-        Netto :
+      Type : Micro Pellet <br/>
+        Netto : <br/>
             1. 50 gram - S
         `,
     },
@@ -76,8 +76,8 @@ const dataGuppyDetail = {
             2. Jika 5 menit pakan tidak di makan oleh ikan, buang supaya menjaga kualitas air tetap baik dan bersih.
         `,
       typeNetto: `
-      Type : Micro Pellet
-        Netto :
+      Type : Micro Pellet <br/>
+        Netto : <br/>
             1. 50 gram - S 
         `,
     },

@@ -1,15 +1,15 @@
-import imageGoldfishBluck from '../../../../../public/products/Pakan-Pelet/goldfish/item-goldfish-image/GOLDFISH BLUCK PRIME.png'
-import imageGoldfishBlack from '../../../../../public/products/Pakan-Pelet/goldfish/item-goldfish-image/GOLDFISH BLACK PRIME.png'
-import imageGoldfishColor from '../../../../../public/products/Pakan-Pelet/goldfish/item-goldfish-image/GOLDFISH COLOR PRIME.png'
-import imageGoldfishGrowth from '../../../../../public/products/Pakan-Pelet/goldfish/item-goldfish-image/GOLDFISH GROWTH PRIME.png'
-import imageSampul from '../../../../../public/products/Pakan-Pelet/goldfish/GOLDFIS.png'
+import imageGoldfishBluck from "../../../../../public/products/Pakan-Pelet/goldfish/item-goldfish-image/GOLDFISH BLUCK PRIME.png";
+import imageGoldfishBlack from "../../../../../public/products/Pakan-Pelet/goldfish/item-goldfish-image/GOLDFISH BLACK PRIME.png";
+import imageGoldfishColor from "../../../../../public/products/Pakan-Pelet/goldfish/item-goldfish-image/GOLDFISH COLOR PRIME.png";
+import imageGoldfishGrowth from "../../../../../public/products/Pakan-Pelet/goldfish/item-goldfish-image/GOLDFISH GROWTH PRIME.png";
+import imageSampul from "../../../../../public/products/Pakan-Pelet/goldfish/GOLDFIS.png";
 
 const dataGoldfishDetail = {
   "goldfish-bluck-prime": [
     {
       imageSampul: imageSampul,
       image: imageGoldfishBluck,
-      title: "One Fish Bulk Prime Goldfish Pellet",
+      title: "Goldfish Bulky Prime",
       deskripsi:
         "One Fish Bulk Prime Goldfish Pellet merupakan salah satu pakan ikan koki yang terbuat dari bahan berkualitas tinggi vitamin, kalsium dan mineral menopang perkembangan lengkap dan pertumbuhan ikan koki. Pakan ini mengandung Mineral & Spirulina yang dapat membentuk body koki menjadi lebih gemuk dan padat.",
       fungsi: `
@@ -23,8 +23,8 @@ const dataGoldfishDetail = {
             2. Jika 5 menit pakan tidak di makan oleh ikan, buang supaya menjaga kualitas air tetap baik dan bersih.
           `,
       typeNetto: `
-      Type : Floating / Mengapung
-        Netto :
+      Type : Floating / Mengapung <br/>
+        Netto : <br/>
             1. 100 gram - M Rp 23.000
         `,
     },
@@ -46,8 +46,8 @@ const dataGoldfishDetail = {
             2. Jika 5 menit pakan tidak di makan oleh ikan, buang supaya menjaga kualitas air tetap baik dan bersih.
         `,
       typeNetto: `
-      Type : Floating / Mengapung
-        Netto :
+      Type : Floating / Mengapung <br/>
+        Netto : <br/>
             1. 100 gram - M Rp 23.000
         `,
     },
@@ -57,7 +57,8 @@ const dataGoldfishDetail = {
       imageSampul: imageSampul,
       image: imageGoldfishBlack,
       title: "Goldfish Black Prime",
-      deskripsi: "One Fish Black Prime Goldfish Pellet merupakan salah satu pakan ikan koki yang terbuat dari bahan berkualitas tinggi. Pakan ini mengandung Jeroan Cumi yang mampu mencerahkan warna hitam ikan secara maksimal. Jenis pelet mengambang yang tidak akan membuat air keruh",
+      deskripsi:
+        "One Fish Black Prime Goldfish Pellet merupakan salah satu pakan ikan koki yang terbuat dari bahan berkualitas tinggi. Pakan ini mengandung Jeroan Cumi yang mampu mencerahkan warna hitam ikan secara maksimal. Jenis pelet mengambang yang tidak akan membuat air keruh",
       fungsi: `
           1. Meningkatkan warna ikan Koki supaya menjadi lebih hitam dan cerah.
         `,
@@ -68,7 +69,7 @@ const dataGoldfishDetail = {
       2. Jika 5 menit pakan tidak di makan oleh ikan, buang supaya menjaga kualitas air tetap baik dan bersih.
         `,
       typeNetto: `
-      Type : Floating / Mengapung
+      Type : Floating / Mengapung <br/>
         Netto : <br/>
           1. 100 gram - S <br/>
           2. 100 gram - M <br/>
@@ -81,7 +82,8 @@ const dataGoldfishDetail = {
       imageSampul: imageSampul,
       image: imageGoldfishGrowth,
       title: "Goldfish Growth Prime",
-      deskripsi: "One Fish Growth Prime Goldfish Pellet merupakan pakan ikan yang terbuat dari bahan berkualitas tinggi. Diformulasikan dengan standar tinggi dan komposisi nutrisi terbaik untuk Mendukung pertumbuhan dan kesejahteraan Ikan. Formula Spirulina dan Ekstrak Grarlic berfungsi memperbaiki warna Ikan Mas agar bersinar",
+      deskripsi:
+        "One Fish Growth Prime Goldfish Pellet merupakan pakan ikan yang terbuat dari bahan berkualitas tinggi. Diformulasikan dengan standar tinggi dan komposisi nutrisi terbaik untuk Mendukung pertumbuhan dan kesejahteraan Ikan. Formula Spirulina dan Ekstrak Grarlic berfungsi memperbaiki warna Ikan Mas agar bersinar",
       fungsi: `
           1. Meningkatkan perkembangan dan pertumbuhan ikan koki secara maksimal
         `,
@@ -92,7 +94,7 @@ const dataGoldfishDetail = {
         2. Jika 5 menit pakan tidak di makan oleh ikan, buang supaya menjaga kualitas air tetap baik dan bersih.
         `,
       typeNetto: `
-      Type : Sinking / Tenggelam 
+      Type : Sinking / Tenggelam  <br/>
         Netto : <br/>
           1. 100 gram - S <br/>
           2. 100 gram - M <br/>

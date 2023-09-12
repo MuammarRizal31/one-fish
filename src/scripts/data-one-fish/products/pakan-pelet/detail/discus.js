@@ -1,4 +1,4 @@
-import imageDiscusSection from '../../../../../public/products/Pakan-Pelet/Discus/item-discus-image/DISCUS PELLET.png'
+import imageDiscusSection from "../../../../../public/products/Pakan-Pelet/Discus/item-discus-image/DISCUS PELLET.png";
 const dataDiscusDetail = {
   "discus-pellet": [
     {
@@ -19,8 +19,8 @@ const dataDiscusDetail = {
       2. Jika 5 menit pakan tidak di makan oleh ikan, buang supaya menjaga kualitas air tetap baik dan bersih.
     `,
       typeNetto: `
-      Type : Micro Pellet
-        Netto :
+      Type : Micro Pellet <br/>
+        Netto : <br/>
             1. 50 gram - S Rp 21.000
         `,
     },

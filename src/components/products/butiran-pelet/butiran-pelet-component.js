@@ -1,6 +1,6 @@
 import { productPelet, sectionProducts } from "../../../template-js/products/butiran-pelet.js/butiran-pelet";
 import { heroSectionProduct } from "../../../template-js/products/header/hero-section";
-import imageContainer from '../../../public/products/Pakan-Pelet/Sampul Pakan Pelet.png'
+import imageContainer from "../../../public/products/Pakan-Pelet/Sampul Pakan Pelet.png";
 import { dataPeletPakan } from "../../../scripts/data-one-fish/products/pakan-pelet/pakan-pelet";
 class ButiranPelet extends HTMLElement {
   connectedCallback() {
@@ -33,8 +33,8 @@ class ButiranPelet extends HTMLElement {
 
   appendFish() {
     let cards = "";
-    dataPeletPakan.forEach(({ image, des, title,url }) => {
-      cards += productPelet(image, des, title,url);
+    dataPeletPakan.forEach(({ image, des, title, url }) => {
+      cards += productPelet(image, des, title, url);
     });
     return cards;
   }

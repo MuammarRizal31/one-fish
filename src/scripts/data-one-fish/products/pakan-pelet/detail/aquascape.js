@@ -1,12 +1,12 @@
-import imageDetailAquascape from '../../../../../public/products/Pakan-Pelet/Aquascape/item-aquascape-image/AQUASCAPE PELLET section.png'
-import imageSampul from '../../../../../public/products/Pakan-Pelet/Aquascape/PELET AQUASCAPE sampul.png'
+import imageDetailAquascape from "../../../../../public/products/Pakan-Pelet/Aquascape/item-aquascape-image/AQUASCAPE PELLET section.png";
+import imageSampul from "../../../../../public/products/Pakan-Pelet/Aquascape/PELET AQUASCAPE sampul.png";
 
 const dataDetailAquascape = {
   "aquascape-pellet": [
     {
-      imageSampul : imageSampul,
+      imageSampul: imageSampul,
       image: imageDetailAquascape,
-      title: "One Fish Red Prime Betta Pellet",
+      title: "Onefish Red Line",
       deskripsi: "One Fish Red Prime Betta Pellet merupakan pakan khusus Betta berwarna merah. Dengan kandungan Asthaxanthin dan spiruluna yang berkualitas tinggi untuk meningkatkan kecerahan dan warna merah pada betta. ",
       fungsi: ` 1. Meningkatkan warna merah pada Betta <br/>
                     2. Mendukung pertumbuhan juga sistem imun pada Betta`,
@@ -16,7 +16,8 @@ const dataDetailAquascape = {
                     1. Beri makan ikan 2 atau 4 kali perhari, berikan sedikit demi sedikit sesuai nafsu makan ikan, jangan terlalu berlebihan. <br/>
                     2. Jika  menit pakan tidak di makan oleh ikan, buang supaya menjaga kualitas air tetap baik dan bersih.`,
       typeNetto: `
-                <p>Type : 
+                <p>
+                Type : 
                   Micro Pellet
                 </p>
                 <p>Netto : 

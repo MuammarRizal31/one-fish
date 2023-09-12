@@ -68,56 +68,56 @@ export const dataPeletPakan = [
   {
     image: imageLouhan,
     title: "SPECIAL ONE FISH LOUHAN",
-    des: "Deskripsi",
-    url: 'Louhan'
-  },
-  {
-    image: imageBetta,
-    title: "SPECIAL ONE FISH BETTA",
-    des: "Deskripsi",
-    url:'Betta'
-  },
-  {
-    image: imageAquascape,
-    title: "SPECIAL AQUASCAPE FISH & SHRIMP",
-    des: "Deskripsi",
-    url: 'Aquascape'
+    des: "Special One Fish Louhan adalah pakan ikan Louhan berkualitas tinggi dengan kandungan nutrisi yang seimbang. Pakan dengan tipe apung ini tersedia dalam 2 ukuran Pellet (3 & 5 mm) dan 4 varian sesuai kebutuhan ikan Louhan.",
+    url: "Louhan",
   },
   {
     image: imageChanna,
     title: "SPECIAL ONE FISH CHANNA",
-    des: "Deskripsi",
-    url: 'Channa'
+    des: "Special One Fish Channa adalah pakan ikan Channa berkualitas tinggi dengan kandungan nutrisi yang seimbang. Pakan dengan tipe apung ini tersedia dalam 3 ukuran Pellet (1, 3 & 5 mm) dan 5 varian sesuai kebutuhan ikan Channa.",
+    url: "Channa",
   },
   {
-    image: imageCichild,
-    title: "SPECIAL ONE FISH CICHLID",
-    des: "Deskripsi",
-    url: 'Cichlid'
-  },
-  {
-    image: imageDiscus,
-    title: "SPECIAL ONE FISH DISCUS",
-    des: "Deskripsi",
-    url: 'Discus'
-  },
-  {
-    image: imageGoldfish,
-    title: "SPECIAL ONE FISH GOLDFISH",
-    des: "Deskripsi",
-    url: 'Goldfish'
+    image: imageBetta,
+    title: "SPECIAL ONE FISH BETTA",
+    des: "Special One Fish Betta adalah pakan ikan Betta berkualitas tinggi dengan kandungan nutrisi yang seimbang. Pakan dengan tipe micro pelet ini tersedia dalam 4 varian yaitu Red Prime, Yellow Prime, Blue Prime, Multicolor Prime sesuai kebutuhan ikan Betta.",
+    url: "Betta",
   },
   {
     image: imageGuppy,
     title: "SPECIAL ONE FISH GUPPY",
-    des: "Deskripsi",
-    url: 'Guppy'
+    des: "Special One Fish Guppy adalah pakan ikan Guppy  berkualitas tinggi dengan kandungan nutrisi yang seimbang. Pakan dengan tipe micro pelet ini tersedia dalam 2 varian yaitu Red Prime, Yellow Prime dan Blue Prime sesuai kebutuhan ikan Guppy.",
+    url: "Guppy",
+  },
+  {
+    image: imageGoldfish,
+    title: "SPECIAL ONE FISH GOLDFISH",
+    des: "Special One Fish Goldfish adalah pakan ikan Goldfish berkualitas tinggi dengan kandungan nutrisi yang seimbang. Pakan dengan 2 tipe (apung & tenggelam) ini tersedia dalam 4 varian yaitu Color Prime, Bulk Prime, Black Prime dan Growth Prime sesuai kebutuhan ikan Goldfish.",
+    url: "Goldfish",
+  },
+  {
+    image: imageCichild,
+    title: "SPECIAL ONE FISH CICHLID",
+    des: "Special One Fish Cichlid adalah pakan ikan Cichlid berkualitas tinggi dengan kandungan nutrisi yang seimbang. Pakan dengan tipe apung ini tersedia dalam 3 varian yaitu Red Prime, Yellow Prime dan Blue Prime sesuai kebutuhan ikan Cichlid.",
+    url: "Cichlid",
+  },
+  {
+    image: imageDiscus,
+    title: "SPECIAL ONE FISH DISCUS",
+    des: "Special One Fish Discus adalah pakan ikan Discus berkualitas tinggi dengan kandungan nutrisi yang seimbang. Tersedia varian Multicolor prime dengan tipe micro pelet sesuai kebutuhan ikan Discus.",
+    url: "Discus",
+  },
+  {
+    image: imageAquascape,
+    title: "SPECIAL AQUASCAPE FISH & SHRIMP",
+    des: "Special One Fish Aquascape Fish & Shrimp adalah pakan ikan pada Aquascape berkualitas tinggi dengan kandungan nutrisi yang seimbang. Tersedia varian Multicolor prime dengan tipe micro pelet sesuai kebutuhan ikan pada Aquascape.",
+    url: "Aquascape",
   },
   {
     image: imageMarine,
     title: "SPECIAL ONE FISH MARINE",
-    des: "Deskripsi",
-    url: 'Marine'
+    des: "Special One Fish Marine adalah pakan ikan Marine berkualitas tinggi dengan kandungan nutrisi yang seimbang. Pakan dengan tipe tenggelam yang menjaga kualitas air tetap baik dan bersih.",
+    url: "Marine",
   },
 ];
 
@@ -125,7 +125,7 @@ export const dataFish = {
   marine: [
     {
       nama: "MARINE PRIME",
-      des: "marine prime",
+      des: "Special One Fish Marine adalah pakan ikan Marine berkualitas tinggi dengan kandungan nutrisi yang seimbang. Pakan dengan tipe tenggelam yang menjaga kualitas air tetap baik dan bersih.",
       img: imageMarinePrime,
       url: "marine-prime",
       sampul: sampulImageMarine,
@@ -168,7 +168,7 @@ export const dataFish = {
       title: "SPECIAL ONE FISH GOLDFISH",
     },
     {
-      nama: "GOLDFISH BLUCK PRIME",
+      nama: "GOLDFISH BULK PRIME",
       des: "One Fish Bulk Prime Goldfish Pellet merupakan salah satu pakan ikan koki yang terbuat dari bahan berkualitas tinggi vitamin, kalsium dan mineral menopang perkembangan lengkap dan pertumbuhan ikan koki. Pakan ini mengandung Mineral & Spirulina yang dapat membentuk body koki menjadi lebih gemuk dan padat.",
       img: imageGoldfishBluckPrime,
       url: "goldfish-bluck-prime",
@@ -194,7 +194,7 @@ export const dataFish = {
   ],
   discus: [
     {
-      nama: "DISCUS PELLET",
+      nama: "Discus Multicolor Prime",
       des: "One Fish Colorful Prime Discus Pellet merupakan salah satu pakan ikan discus yang terbuat dari bahan berkualitas tinggi vitamin dan nutriai terbaik untuk membantu pertumbuhan lengkap ikan discus. Pakan ini mengandung Mineral & Spirulina yang dapat meningkatkan warna discus menjadi lebih baik.",
       img: imageDiscusPellet,
       url: "discus-pellet",
@@ -262,7 +262,7 @@ export const dataFish = {
       title: "SPECIAL ONE FISH CHANNA",
     },
     {
-      nama: "CHANNA SPECIAL COLORFUL",
+      nama: "CHANNA COLORFUL PRIME",
       des: "One Fish Colorful Channa Pellet merupakan pakan ikan yang terbuat dari bahan yang berkualitas tinggi dan komposisi nutrisi yang terbaik untuk mendukung pertumbuhan channa, mengandung Mineral & Spirulina yang dapat meningkatkan warna channa menjadi lebih baik.",
       img: imageSpecialColorFul,
       url: "channa-colorful-prime",

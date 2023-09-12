@@ -29,7 +29,7 @@ const ContactUs = {
             </div>
 
             <div class="col-12 col-md-5 ms-auto contact-us__contact"> 
-              <h5 class="text-one-fish">PT One-Fish</h5>
+              <h5 class="text-one-fish">Pelet One Fish</h5>
               <div>
                 <h6 class="mb-1">Address : </h6>
                 <p class="contact-us__text">Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12430</p>

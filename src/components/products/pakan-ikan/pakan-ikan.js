@@ -2,6 +2,7 @@ import { dataPakanKering } from "../../../scripts/data-one-fish/products/pakan-k
 import { sectionProducts } from "../../../template-js/products/butiran-pelet.js/butiran-pelet";
 import { heroSectionProduct } from "../../../template-js/products/header/hero-section";
 import { productPakan } from "../../../template-js/products/pakan-kering/pakan-kering-template";
+import pakanKering from "../../../public/products/pakan-kering/Pakan Kering.png";
 
 class PakanIkan extends HTMLElement {
   connectedCallback() {
@@ -9,7 +10,7 @@ class PakanIkan extends HTMLElement {
   }
   render() {
     this.innerHTML = `
-    ${heroSectionProduct()}
+    ${heroSectionProduct(pakanKering, "PAKAN KERING")}
 
     <div class="container">
       <div class="row p-0 m-0">      
@@ -31,10 +32,10 @@ class PakanIkan extends HTMLElement {
  
     `;
   }
-  appendFish(){
+  appendFish() {
     let cards = "";
-    dataPakanKering.forEach(({ image, des, title,url }) => {
-      cards += productPakan(image, des, title,url);
+    dataPakanKering.forEach(({ image, des, title, url }) => {
+      cards += productPakan(image, des, title, url);
     });
     return cards;
   }
