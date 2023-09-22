@@ -13,19 +13,19 @@ class CarouselComponent extends HTMLElement {
             <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
         </div>
     <div class="carousel-inner">
-        <div class="carousel-item active" data-bs-interval="1000">
+        <div class="carousel-item active" data-bs-interval="2000">
         <img src="./home-image/Sampul Utama.png" class="img-fluid" alt="image-1">
         <div class="carousel-caption d-none d-md-block">
     </div>
   </div>
-  <div class="carousel-item" data-bs-interval="1000">
-    <img src="./carousel-image/carousel-11.jpg" class="img-fluid" alt="image-2">
+  <div class="carousel-item" data-bs-interval="1500">
+    <img src="./products/pakan-kering/Pakan Kering.png" class="img-fluid" alt="image-2">
     <div class="carousel-caption d-none d-md-block">
       
     </div>
   </div>
-  <div class="carousel-item" data-bs-interval="1000">
-    <img src="./carousel-image/carousel-11.jpg" class="img-fluid" alt="image-3">
+  <div class="carousel-item" data-bs-interval="1500">
+    <img src="./products/Pakan-Pelet/Sampul Pakan Pelet.png" class="img-fluid" alt="image-3">
     <div class="carousel-caption d-none d-md-block">
       
     </div>

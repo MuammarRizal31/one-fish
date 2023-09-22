@@ -56,7 +56,7 @@ class CardsNews extends HTMLElement {
             <div class="col-12 col-md-5">
                 <div class="image-news">
                     <a href="#">
-                        <img src="./news/sertifikat channa contest.jpeg"/>
+                        <img src="./news/sertifikat-flaring.png" alt="sertifikat flaring"/>
                     </a>
                 </div>
             </div>
@@ -93,7 +93,7 @@ class CardsNews extends HTMLElement {
         <div class="col-12 col-md-5">
             <div class="image-news">
                 <a href="#">
-                    <img src="./news/sertifikat siliwangi.jpeg"/>
+                    <img src="./news/sertifikat-siliwangi.png"/>
                 </a>
             </div>
         </div>
@@ -134,7 +134,7 @@ class CardsNews extends HTMLElement {
         <div class="col-12 col-md-5">
             <div class="image-news">
                 <a href="#">
-                    <img src="./news/sertifikat snackhead.jpeg"/>
+                    <img src="./news/sertifikat-silver.png"/>
                 </a>
             </div>
         </div>

@@ -76,12 +76,15 @@ export const templateDetailPage = (image, title, deskripsi, nutrisi, komposisi, 
           <br/>
 
         </div>
+
+        
+
       </div>
     </div>
   </div>
   `;
 };
-export const templateDetailPageFungsi = (image, title, deskripsi, fungsi, nutrisi, komposisi, caraPakai, typeNetto) => {
+export const templateDetailPageFungsi = (image, title, deskripsi, fungsi, nutrisi, komposisi, caraPakai, typeNetto, link) => {
   return `
   <div class="container">
     <div class="row">
@@ -119,6 +122,20 @@ export const templateDetailPageFungsi = (image, title, deskripsi, fungsi, nutris
           <h5 class="text-one-fish">TYPE NETTO</h5>
           <p>${typeNetto}</p>
         </div>
+
+        <div class="row d-flex justify-content-around">
+          <div class="col-3 text-align-center">
+            <a href="${link}">
+              <img src="./icons/logo-tokped.png" alt="logo tokped"/>
+            </a>
+          </div>
+          <div class="col-3 text-align-center">
+            <a href="${link}">
+              <img src="./icons/logo-shopee.png" alt="logo shopee"/>
+            </a>
+          </div>
+        </div>
+
       </div>
     </div>
   </div>

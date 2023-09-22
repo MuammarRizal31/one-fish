@@ -11,14 +11,21 @@ const maggotDetail = {
       title: "Maggot Red Prime",
       deskripsi:
         "One Fish Red Maggot merupakan suplemen yang dapat meningkatkan pertumbuhan ikan yang memiliki komposisi nutrisi terbaik untuk mendukung pertumbuhan ikan dan kesehatannya. Mangandung Astaxanthin yang akan membantu mencerahkan ikan supaya warna menjadi lebih merah.",
-      fungsi: ``,
+      fungsi: `
+      1. Meningkatkan warna merah pada ikan dengan maksimal <br/>
+      2. Memberikan kecerahan dan warna pada ikan      
+      `,
       nutrisi: "Protein 45%, Fat 25%, Fibre 6%, Ash 10%, Moisture 12%",
       komposisi: "High quality fish oil, asam amino, enzim, one fish formula, astaxanthin, attractant, vitamins, minerals.",
       caraPakai: `
         1. Beri makan ikan 20-30% dari pakan biasa, berikan sedikit demi sedikit sesuai nafsu makan ikan, jangan terlalu berlebihan. <br/>
         2. Jika 10 menit pakan tidak di makan oleh ikan, buang supaya menjaga kualitas air tetap baik dan bersih.
     `,
-      typeNetto: ``,
+      typeNetto: `
+      Type : Dry Maggot <br/>
+      Netto :
+      1. 60 gram
+      `,
     },
   ],
   "maggot-blue": [
@@ -28,14 +35,21 @@ const maggotDetail = {
       title: "Maggot Blue Prime",
       deskripsi:
         "One Fish Blue Maggot merupakan suplemen yang dapat meningkatkan pertumbuhan ikan yang memiliki komposisi nutrisi terbaik untuk mendukung pertumbuhan ikan dan kesehatannya. Mengandung Phycocianeine yang akan membantu mencerahkan ikan supaya warna menjadi lebih biru.",
-      fungsi: ``,
+      fungsi: `
+      1. Meningkatkan warna biru pada ikan dengan maksimal <br/>
+      2. Memberikan kecerahan dan warna pada ikan      
+      `,
       nutrisi: "Protein 45%, Fat 25%, Fibre 6%, Ash 10%, Moisture 12%",
       komposisi: "High quality fish oil, asam amino, enzim, one fish formula, phycocianeine, attractant, vitamins, minerals",
       caraPakai: `
         1. Beri makan ikan 20-30% dari pakan biasa, berikan sedikit demi sedikit sesuai nafsu makan ikan, jangan terlalu berlebihan. <br/>
         2. Jika 10 menit pakan tidak di makan oleh ikan, buang supaya menjaga kualitas air tetap baik dan bersih.
         `,
-      typeNetto: ``,
+      typeNetto: `
+      Type : Dry Maggot <br/>
+      Netto :
+      1. 60 gram
+      `,
     },
   ],
   "maggot-yellow": [
@@ -45,14 +59,21 @@ const maggotDetail = {
       title: "Maggot Yellow Prime",
       deskripsi:
         "One Fish Yellow Maggot merupakan suplemen yang dapat meningkatkan pertumbuhan ikan yang memiliki komposisi nutrisi terbaik untuk mendukung pertumbuhan ikan dan kesehatannya. Mengandung Zeaxantine yang akan membantu mencerahkan ikan supaya warna menjadi lebih kuning.",
-      fungsi: ``,
+      fungsi: `
+      1. Meningkatkan warna kuning pada ikan dengan maksimal <br/>
+      2. Memberikan kecerahan dan warna pada ikan      
+      `,
       nutrisi: "Protein 45%, Fat 25%, Fibre 6%, Ash 10%, Moisture 12%",
       komposisi: "High quality fish oil, asam amino, enzim, one fish formula, zeaxantine, attractant, vitamins, minerals.",
       caraPakai: `
       1. Beri makan ikan 20-30% dari pakan biasa, berikan sedikit demi sedikit sesuai nafsu makan ikan, jangan terlalu berlebihan. <br/>
       2. Jika 10 menit pakan tidak di makan oleh ikan, buang supaya menjaga kualitas air tetap baik dan bersih.
           `,
-      typeNetto: ``,
+      typeNetto: `
+      Type : Dry Maggot <br/>
+      Netto :
+      1. 60 gram
+      `,
     },
   ],
   "maggot-green": [
@@ -62,14 +83,21 @@ const maggotDetail = {
       title: "Maggot Green Prime",
       deskripsi:
         "One Fish Green Maggot merupakan suplemen yang dapat meningkatkan pertumbuhan ikan yang memiliki komposisi nutrisi terbaik untuk mendukung pertumbuhan ikan dan kesehatannya. Mengandung Spirulina yang akan membantu mencerahkan ikan supaya warna menjadi lebih hijau.",
-      fungsi: ``,
+      fungsi: `
+      1. Meningkatkan warna hijau pada ikan dengan maksimal <br/>
+      2. Memberikan kecerahan dan warna pada ikan      
+      `,
       nutrisi: "Protein 45%, Fat 25%, Fibre 6%, Ash 10%, Moisture 12%",
       komposisi: "High quality fish oil, asam amino, enzim, one fish formula, spirulina, attractant, vitamins, minerals.",
       caraPakai: `
       1. Beri makan ikan 20-30% dari pakan biasa, berikan sedikit demi sedikit sesuai nafsu makan ikan, jangan terlalu berlebihan. <br/>
       2. Jika 10 menit pakan tidak di makan oleh ikan, buang supaya menjaga kualitas air tetap baik dan bersih.
             `,
-      typeNetto: ``,
+      typeNetto: `
+      Type : Dry Maggot <br/>
+      Netto :
+      1. 60 gram
+      `,
     },
   ],
 };

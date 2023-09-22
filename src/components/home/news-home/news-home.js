@@ -26,7 +26,7 @@ class NewsHome extends HTMLElement {
                         <h4 class="text-one-fish">LATEST ARTICLES</h4>
                         <div class="garis"></div>
                         <div class="card mt-3">
-                            <img src="./news/sertifikat siliwangi.jpeg" class="card-img-top" alt="Sertifikat-2">
+                            <img src="./news/sertifikat-siliwangi.png" class="card-img-top" alt="Sertifikat-2">
                             <div class="card-body">
                                 <h5 class="card-title text-one-fish">Pelet One Fish Support Siliwangi Channa Contest 2</h5>
                                 <p class="card-text">Pada tanggal 16 – 18 Desember 2022 Pelet One Fish ikut berkontribusi pada event SILIWANGI CHANNA CONTEST 2 yang diselenggarakan oleh tim …….. yang bertempatan di Beji, Depok, Jawa Barat. Pelet One Fish memberikan produk kepada juara 1 pada setiap kelasnya. Selain memberikan produk Pelet One Fish juga memberikan produk untuk para Panitia sebagai ucapan terimakasih karna telah mengundang dan mengajak Pelet One Fish untuk menjadi bagian sejarah dalam event Channa di Jawa Barat.

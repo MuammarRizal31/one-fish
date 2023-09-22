@@ -1,5 +1,4 @@
 // data baby shrimp
-import babyShrimpSampul from "../../../../public/products/pakan-kering/1. Baby Shirmp.png";
 import babyShrimpBlue from "../../../../public/products/pakan-kering/1. Baby Shrimp/BABY SHRIMP BLUE.png";
 import babyShrimpRed from "../../../../public/products/pakan-kering/1. Baby Shrimp/BABY SHRIMP RED.png";
 import babyShrimpGreen from "../../../../public/products/pakan-kering/1. Baby Shrimp/BABY SHRIMP GREEN.png";
@@ -40,6 +39,15 @@ import superwormBlue from "../../../../public/products/pakan-kering/7. Superworm
 import superwormGreen from "../../../../public/products/pakan-kering/7. Superworm/SUPERWORM GREEN.png";
 import superwormRed from "../../../../public/products/pakan-kering/7. Superworm/SUPERWORM RED.png";
 import superwormYellow from "../../../../public/products/pakan-kering/7. Superworm/SUPERWORM YELLOW.png";
+
+// sampul
+import babyShrimpSampul from "../../../../public/Sampul Pakan Kering/SAMPUL BABY SHRIMP.png";
+import wormSampul from "../../../../public/Sampul Pakan Kering/SAMPUL WORM.png";
+import cricketSampul from "../../../../public/Sampul Pakan Kering/SAMPUL CRICKET.png";
+import maggotSampul from "../../../../public/Sampul Pakan Kering/SAMPUL MAGGOT.png";
+import shrimpSampul from "../../../../public/Sampul Pakan Kering/SAMPUL SHRIMP.png";
+import mealwormSampul from "../../../../public/Sampul Pakan Kering/SAMPUL MEALWORM.png";
+import superwormSampul from "../../../../public/Sampul Pakan Kering/SAMPUL SUPERWORM.png";
 
 export const dataPakanKeringItem = {
   "baby-shrimp": [
@@ -106,7 +114,7 @@ export const dataPakanKeringItem = {
       des: "One Fish Green Worm Prime merupakan Cacing Kering dengan komposisi nutrisi terbaik untuk mendukung pertumbuhan dan kesehatan Ikan. Mengandung Spirulina yang dapat mencerahkan warna Ikan lebih hijau dengan maksimal.",
       img: wormGreen,
       url: "worm-green",
-      sampul: babyShrimpSampul,
+      sampul: wormSampul,
       title: "SPECIAL ONE FISH WORM",
     },
   ],
@@ -140,7 +148,7 @@ export const dataPakanKeringItem = {
       des: "One Fish Red Cricket Prime merupakan Jangkrik Kering dengan komposisi nutrisi terbaik untuk mendukung pertumbuhan dan kesehatan Ikan. Mengandung Astaxanthin yang dapat mencerahkan warna Ikan lebih merah dengan maksimal.",
       img: cricketRed,
       url: "cricket-red",
-      sampul: babyShrimpSampul,
+      sampul: cricketSampul,
       title: "SPECIAL ONE FISH CRICKET",
     },
   ],
@@ -174,7 +182,7 @@ export const dataPakanKeringItem = {
       des: "One Fish Yellow Maggot merupakan suplemen yang dapat meningkatkan pertumbuhan ikan yang memiliki komposisi nutrisi terbaik untuk mendukung pertumbuhan ikan dan kesehatannya. Mengandung Zeaxantine yang akan membantu mencerahkan ikan supaya warna menjadi lebih kuning.",
       img: maggotYellow,
       url: "maggot-yellow",
-      sampul: babyShrimpSampul,
+      sampul: maggotSampul,
       title: "SPECIAL ONE FISH MAGGOT",
     },
   ],
@@ -208,7 +216,7 @@ export const dataPakanKeringItem = {
       des: "One Fish Yellow Shrimp Prime merupakan Udang Rebon Kering dengan komposisi nutrisi terbaik untuk mendukung pertumbuhan dan kesehatan Ikan. Mengandung Zeaxanthin yang dapat mencerahkan warna Ikan lebih kuning dengan maksimal.",
       img: shrimpYellow,
       url: "shrimp-yellow",
-      sampul: babyShrimpSampul,
+      sampul: shrimpSampul,
       title: "SPECIAL ONE FISH SHRIMP",
     },
   ],
@@ -242,7 +250,7 @@ export const dataPakanKeringItem = {
       des: "One Fish Yellow MealWorms Hongkong Prime merupakan Ulat Hongkong Kering dengan komposisi nutrisi terbaik untuk mendukung pertumbuhan dan kesehatan Ikan. Mengandung Zeaxanthin yang dapat mencerahkan warna Ikan lebih kuning dengan maksimal.",
       img: mealwormYellow,
       url: "mealworm-yellow",
-      sampul: babyShrimpSampul,
+      sampul: mealwormSampul,
       title: "SPECIAL ONE FISH MEALWORM",
     },
   ],
@@ -276,7 +284,7 @@ export const dataPakanKeringItem = {
       des: "One Fish Yellow SuperWorm Jerman Prime merupakan Ulat Jerman Kering dengan komposisi nutrisi terbaik untuk mendukung pertumbuhan dan kesehatan Ikan. Mengandung Zeaxanthin yang dapat mencerahkan warna Ikan lebih kuning dengan maksimal.",
       img: superwormYellow,
       url: "superworm-yellow-prime",
-      sampul: babyShrimpSampul,
+      sampul: superwormSampul,
       title: "SPECIAL ONE FISH SUPERWORM",
     },
   ],

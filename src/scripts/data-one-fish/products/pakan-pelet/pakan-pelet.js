@@ -11,12 +11,12 @@ import imageMarine from "../../../../public/products/Pakan-Pelet/Marine/Artboard
 
 // foto sampul
 import sampulImageLouhan from "../../../../public/products/Pakan-Pelet/Louhan/SAMPUL LOUHAN.png";
-import sampulImageAquascape from "../../../../public/products/Pakan-Pelet/Aquascape/PELET AQUASCAPE.png";
+import sampulImageAquascape from "../../../../public/Sampul Pakan Kering/AQUASCAPE FISH.png";
 import sampulImageBetta from "../../../../public/products/Pakan-Pelet/Betta/SAMPUL BETTA.png";
 import sampulImageChanna from "../../../../public/products/Pakan-Pelet/Channa/SAMPUL CHANAA.png";
 import sampulImageCichlid from "../../../../public/products/Pakan-Pelet/Cichild/SAMPUL CICHLID.png";
 import sampulImageDiscus from "../../../../public/products/Pakan-Pelet/Discus/SAMPUL DISCUS.png";
-import sampulImageGoldfish from "../../../../public/products/Pakan-Pelet/goldfish/GOLDFIS.png";
+import sampulImageGoldfish from "../../../../public/Sampul Pakan Kering/SAMPUL GOLDFISH.jpg";
 import sampulImageGuppy from "../../../../public/products/Pakan-Pelet/Guppy/SAMPUL GUPPY.png";
 import sampulImageMarine from "../../../../public/products/Pakan-Pelet/Marine/SAMPUL MARINE).png";
 
@@ -272,7 +272,7 @@ export const dataFish = {
   ],
   louhan: [
     {
-      nama: "LOUHAN COLLOR PRIME",
+      nama: "LOUHAN COLOR PRIME",
       des: "One Fish Color Prime Louhan Pellet merupakan pakan ikan louhan yang mengandung Astaxanthin & penambah warna alami yang akan meningkatkan warna asli louhan menjadi lebih baik dan merah.",
       img: imageLohanPrime,
       url: "louhan-collor-prime",
