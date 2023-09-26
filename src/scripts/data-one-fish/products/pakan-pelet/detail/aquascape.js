@@ -24,6 +24,8 @@ const dataDetailAquascape = {
                   1. 50 gram - S 
                 </p>
                 `,
+      linkTokped: "https://www.tokopedia.com/peletonefish/pakan-ikan-aquascape-fish-shrimp-one-fish?extParam=whid%3D14279589",
+      linkShopee: "https://shopee.co.id/PAKAN-IKAN-AQUASCAPE-FISH-SHRIMP-i.859418618.21179956087?sp_atk=9543b4b0-cfa8-4a4b-ac45-192ceea84902&xptdk=9543b4b0-cfa8-4a4b-ac45-",
     },
   ],
 };

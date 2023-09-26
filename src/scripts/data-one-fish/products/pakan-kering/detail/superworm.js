@@ -27,6 +27,8 @@ const superworm = {
       Netto :
       1. 70 gram
       `,
+      linkTokped: "https://www.tokopedia.com/peletonefish/pakan-ikan-superworm-red-prime-one-fish?extParam=whid%3D14279589",
+      linkShopee: "https://shopee.co.id/PAKAN-IKAN-RED-SUPERWORM-JERMAN-PRIME-i.859418618.22842895650?sp_atk=2a307b9c-2250-4459-8c90-7b019934c73c&xptdk=2a307b9c-2250-4459-",
     },
   ],
   "superworm-blue": [
@@ -51,6 +53,8 @@ const superworm = {
       Netto :
       1. 70 gram
       `,
+      linkTokped: "https://www.tokopedia.com/peletonefish/pakan-ikan-superworm-blue-prime-one-fish?extParam=whid%3D14279589",
+      linkShopee: "https://shopee.co.id/PAKAN-IKAN-BLUE-SUPERWORM-JERMAN-PRIME-i.859418618.22568374963?sp_atk=d4374f1c-2083-44ba-8efb-cfe5f3b4082e&xptdk=d4374f1c-2083-44ba-",
     },
   ],
   "superworm-yellow": [
@@ -75,6 +79,8 @@ const superworm = {
       Netto :
       1. 70 gram
       `,
+      linkTokped: "https://www.tokopedia.com/peletonefish/pakan-ikan-yellow-superworm-jerman-prime-one-fish?extParam=whid%3D14279589",
+      linkShopee: "https://shopee.co.id/PAKAN-IKAN-YELLOW-SUPERWORM-JERMAN-PRIME-i.859418618.23868378490?sp_atk=58527145-e4ae-4e93-b6a6-36debd6b6474&xptdk=58527145-e4ae-",
     },
   ],
   "superworm-green": [
@@ -99,6 +105,8 @@ const superworm = {
       Netto :
       1. 70 gram
       `,
+      linkTokped: "https://www.tokopedia.com/peletonefish/pakan-ikan-green-superworm-jerman-prime-one-fish?extParam=whid%3D14279589",
+      linkShopee: "https://shopee.co.id/PAKAN-IKAN-GREEN-SUPERWORM-JERMAN-PRIME-i.859418618.18279968187?sp_atk=2acad6d9-969d-4680-b199-73fb6d29138d&xptdk=2acad6d9-969d-",
     },
   ],
 };

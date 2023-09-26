@@ -22,6 +22,8 @@ const louhanDetail = {
             Netto :
                 1. 100 gram - M <br />
                 2. 100 gram - L  `,
+      linkTokped: "https://www.tokopedia.com/peletonefish/pellet-ikan-louhan-pearl-mutiara-prime-one-fish-l?extParam=whid%3D14279589",
+      linkShopee: "https://shopee.co.id/PELLET-IKAN-LOUHAN-PEARL-MUTIARA-PRIME-ONE-FISH-i.859418618.19953645641?sp_atk=a88bc8d6-51ed-4b67-b51b-e041326c71bc&xptdk=a88bc8d6-",
     },
   ],
   "louhan-growth-prime": [
@@ -42,6 +44,8 @@ const louhanDetail = {
               Netto : <br/>
                 1. 100 gram - M <br />
                 2. 100 gram - L  `,
+      linkTokped: "https://www.tokopedia.com/peletonefish/pellet-ikan-louhan-growth-body-prime-one-fish-m?extParam=whid%3D14279589",
+      linkShopee: "https://shopee.co.id/PELLET-IKAN-LOUHAN-GROWTH-BODY-PRIME-ONE-FISH-i.859418618.18353645530?sp_atk=a89ddc47-33c3-4b15-addc-31cce3d7e33a&xptdk=a89ddc47-",
     },
   ],
   "louhan-head-prime": [
@@ -61,6 +65,8 @@ const louhanDetail = {
                 Netto : <br/>
                     1. 100 gram - M  <br/>
                     2. 100 gram - L   `,
+      linkTokped: "https://www.tokopedia.com/peletonefish/pellet-ikan-louhan-head-jenong-one-fish-m?extParam=whid%3D14279589",
+      linkShopee: "https://shopee.co.id/PELLET-IKAN-LOUHAN-HEAD-JENONG-PRIME-ONE-FISH-i.859418618.13596951439?sp_atk=96d616b8-f41d-4cd0-910e-dc325997dd3f&xptdk=96d616b8-f41d-",
     },
   ],
   "louhan-collor-prime": [
@@ -80,6 +86,8 @@ const louhanDetail = {
                 Netto :  <br/>
                     1. 100 gram - M  <br/>
                     2. 100 gram - L `,
+      linkTokped: "https://www.tokopedia.com/peletonefish/pellet-ikan-louhan-color-prime-one-fish-m?extParam=whid%3D14279589",
+      linkShopee: "https://shopee.co.id/PELLET-IKAN-LOUHAN-COLOR-PRIME-ONE-FISH-i.859418618.19353644553?sp_atk=16540348-87e3-458e-807b-45b392cf7da7&xptdk=16540348-87e3-458e-",
     },
   ],
 };

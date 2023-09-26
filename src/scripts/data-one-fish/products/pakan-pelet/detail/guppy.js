@@ -28,6 +28,8 @@ const dataGuppyDetail = {
         Netto : <br/>
             1. 50 gram - S 
         `,
+      linkTokped: "https://www.tokopedia.com/peletonefish/pellet-ikan-guppy-blue-prime-one-fish-s?extParam=whid%3D14279589",
+      linkShopee: "https://shopee.co.id/PELLET-IKAN-GUPPY-BLUE-PRIME-ONE-FISH-i.859418618.21253639875?sp_atk=f701c60f-c236-45c5-bbaf-2fb6cc4bbb3e&xptdk=f701c60f-c236-45c5-bbaf-",
     },
   ],
   "guppy-red-prime": [
@@ -54,6 +56,8 @@ const dataGuppyDetail = {
         Netto : <br/>
             1. 50 gram - S
         `,
+      linkTokped: "https://www.tokopedia.com/peletonefish/pellet-ikan-guppy-red-prime-one-fish-s?extParam=whid%3D14279589",
+      linkShopee: "https://shopee.co.id/PELLET-IKAN-GUPPY-RED-PRIME-ONE-FISH-i.859418618.19353642796?sp_atk=1d1edf63-627f-4fff-b24f-2ab9e7ab08d3&xptdk=1d1edf63-627f-4fff-b24f-",
     },
   ],
   "guppy-yellow-prime": [
@@ -80,6 +84,8 @@ const dataGuppyDetail = {
         Netto : <br/>
             1. 50 gram - S 
         `,
+      linkTokped: "https://www.tokopedia.com/peletonefish/pellet-ikan-guppy-yellow-prime-one-fish-s?extParam=whid%3D14279589",
+      linkShopee: "https://shopee.co.id/PELLET-IKAN-GUPPY-YELLOW-PRIME-ONE-FISH-i.859418618.21853640355?sp_atk=b9c9b050-05a5-4890-b3c1-9934d736ddcf&xptdk=b9c9b050-05a5-4890-",
     },
   ],
 };

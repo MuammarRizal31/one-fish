@@ -1,7 +1,7 @@
 import mealwormRed from "../../../../../public/products/pakan-kering/6. Mealworm/MEALWORM RED PRIME.png";
-import mealwormYellow from "../../../../../public/products/pakan-kering/6. Mealworm/YellowWealworm.png";
 import mealwormGreen from "../../../../../public/products/pakan-kering/6. Mealworm/MEALWORM GREEN.png";
 import mealwormBlue from "../../../../../public/products/pakan-kering/6. Mealworm/MEALWORM PRIME.png";
+import mealwormYellow from "../../../../../public/products/pakan-kering/6. mealworm/MEALWORM YELLOW.png";
 import imageSampul from "../../../../../public/products/pakan-kering/MEALWORM.png";
 
 const mealwormDetail = {
@@ -27,6 +27,8 @@ const mealwormDetail = {
       Netto :
       1. 70 gram
       `,
+      linkTokped: "https://www.tokopedia.com/peletonefish/pakan-ikan-red-mealworm-hongkong-prime-one-fish?extParam=whid%3D14279589",
+      linkShopee: "https://shopee.co.id/PAKAN-IKAN-RED-MEALWORM-HONGKONG-PRIME-i.859418618.20979946697?sp_atk=22c9aa19-1e6c-4128-b732-0f6788e3900f&xptdk=22c9aa19-1e6c-",
     },
   ],
   "mealworm-blue": [
@@ -51,6 +53,8 @@ const mealwormDetail = {
       Netto :
       1. 70 gram
       `,
+      linkTokped: "https://www.tokopedia.com/peletonefish/pakan-ikan-blue-mealworm-hongkong-prime-one-fish?extParam=whid%3D14279589",
+      linkShopee: "https://shopee.co.id/PAKAN-IKAN-BLUE-MEALWORM-HONGKONG-PRIME-i.859418618.22668378045?sp_atk=5288ba87-ee2e-458a-a103-31c67765d6c0&xptdk=5288ba87-ee2e-",
     },
   ],
   "mealworm-yellow": [
@@ -75,6 +79,8 @@ const mealwormDetail = {
       Netto :
       1. 70 gram
       `,
+      linkTokped: "https://www.tokopedia.com/peletonefish/pakan-ikan-yellow-mealworm-hongkong-prime-one-fish?extParam=whid%3D14279589",
+      linkShopee: "https://shopee.co.id/PAKAN-IKAN-YELLOW-MEALWORM-HONGKONG-PRIME-i.859418618.18979952296?sp_atk=346d56e2-4ee6-4a17-a1cb-bfff032d1bea&xptdk=346d56e2-",
     },
   ],
   "mealworm-green": [
@@ -99,6 +105,8 @@ const mealwormDetail = {
       Netto :
       1. 70 gram
       `,
+      linkTokped: "https://www.tokopedia.com/peletonefish/pakan-ikan-green-mealworm-hongkong-prime-one-fish?extParam=whid%3D14279589",
+      linkShopee: "https://shopee.co.id/PAKAN-IKAN-GREEN-MEALWORM-HONGKONG-PRIME-i.859418618.22068371502?sp_atk=74c32704-75a1-4cea-9e9f-a09382c0230a&xptdk=74c32704-75a1-",
     },
   ],
 };

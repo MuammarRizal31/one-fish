@@ -29,6 +29,8 @@ const dataDetailChanna = {
             1. 100 gram - S <br/>
             2. 100 gram - M <br/>
             3. 100 gram - L`,
+      linkTokped: "https://www.tokopedia.com/peletonefish/pellet-ikan-channa-blue-prime-one-fish-s?extParam=whid%3D14279589",
+      linkShopee: "https://shopee.co.id/PELLET-IKAN-CHANNA-BLUE-PRIME-ONE-FISH-i.859418618.21353494240?sp_atk=dba3bbde-c91a-4b5b-9b0f-012624fd5034&xptdk=dba3bbde-c91a-4b5b-",
     },
   ],
   "channa-yellow-prime": [
@@ -56,6 +58,8 @@ const dataDetailChanna = {
             2. 100 gram - M <br/>
             3. 100 gram - L
             `,
+      linkTokped: "https://www.tokopedia.com/peletonefish/pellet-ikan-channa-yellow-prime-one-fish-s?extParam=whid%3D14279589",
+      linkShopee: "https://shopee.co.id/PELLET-IKAN-CHANNA-YELLOW-PRIME-ONE-FISH-i.859418618.18853510378?sp_atk=e964824d-39db-4555-934b-a688382c36e2&xptdk=e964824d-39db-4555-",
     },
   ],
   "channa-red-prime": [
@@ -84,6 +88,8 @@ const dataDetailChanna = {
             2. 100 gram - M <br/>
             3. 100 gram - L
         `,
+      linkTokped: "https://www.tokopedia.com/peletonefish/pellet-ikan-channa-red-prime-one-fish-s?extParam=whid%3D14279589",
+      linkShopee: "https://shopee.co.id/PELLET-IKAN-CHANNA-RED-PRIME-ONE-FISH-i.859418618.21453509830?sp_atk=6d047d0a-f23e-463f-ad8c-7651b3248caf&xptdk=6d047d0a-f23e-463f-ad8c-",
     },
   ],
   "channa-colorful-prime": [
@@ -109,6 +115,8 @@ const dataDetailChanna = {
             2. 100 gram - M <br/>
             3. 100 gram - L
         `,
+      linkTokped: "https://www.tokopedia.com/peletonefish/pellet-ikan-channa-colorful-prime-one-fish-s?extParam=whid%3D14279589",
+      linkShopee: "https://shopee.co.id/PELLET-IKAN-CHANNA-COLORFUL-PRIME-ONE-FISH-i.859418618.21653506752?sp_atk=e94b9a6f-7190-42a0-98a5-e640e68fbd68&xptdk=e94b9a6f-7190-",
     },
   ],
   "channa-black-prime": [

@@ -25,6 +25,8 @@ const cricketDetail = {
         Netto :
         1. 60 gram
       `,
+      linkTokped: "https://www.tokopedia.com/peletonefish/pakan-ikan-red-cricket-prime-one-fish?extParam=whid%3D14279589",
+      linkShopee: "https://shopee.co.id/PAKAN-IKAN-RED-CRICKET-PRIME-i.859418618.19379967231?sp_atk=c1aae090-14f4-416a-ad2d-49a2cbd35aec&xptdk=c1aae090-14f4-416a-ad2d-",
     },
   ],
   "cricket-blue": [
@@ -48,6 +50,8 @@ const cricketDetail = {
       Netto :
       1. 60 gram
       `,
+      linkTokped: "https://www.tokopedia.com/peletonefish/pakan-ikan-blue-cricket-prime-one-fish?extParam=whid%3D14279589",
+      linkShopee: "https://shopee.co.id/PAKAN-IKAN-BLUE-CRICKET-PRIME-i.859418618.21179955618?sp_atk=94d88c7b-89b0-4eb1-81bd-a0236dffa6d5&xptdk=94d88c7b-89b0-4eb1-81bd-",
     },
   ],
   "cricket-yellow": [
@@ -72,6 +76,8 @@ const cricketDetail = {
       Netto :
       1. 60 gram
       `,
+      linkTokped: "https://www.tokopedia.com/peletonefish/pakan-ikan-yellow-cricket-prime-one-fish?extParam=whid%3D14279589",
+      linkShopee: "https://shopee.co.id/PAKAN-IKAN-YELLOW-CRICKET-PRIME-i.859418618.22342932243?sp_atk=3571a56f-d475-43b0-9d9a-3f254bd85546&xptdk=3571a56f-d475-43b0-9d9a-",
     },
   ],
   "cricket-green": [
@@ -95,6 +101,8 @@ const cricketDetail = {
       Netto :
       1. 60 gram
       `,
+      linkTokped: "https://www.tokopedia.com/peletonefish/pakan-ikan-green-cricket-prime-one-fish?extParam=whid%3D14279589",
+      linkShopee: "https://shopee.co.id/PAKAN-IKAN-GREEN-CRICKET-PRIME-i.859418618.23142934215?sp_atk=89c5e767-0941-4928-9d79-6f7ef81110b0&xptdk=89c5e767-0941-4928-9d79-",
     },
   ],
 };

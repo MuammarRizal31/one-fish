@@ -23,6 +23,8 @@ const dataDiscusDetail = {
         Netto : <br/>
             1. 50 gram - S Rp 21.000
         `,
+      linkTokped: "https://www.tokopedia.com/peletonefish/pellet-ikan-discus-colorful-one-fish-s?extParam=whid%3D14279589",
+      linkShopee: "https://shopee.co.id/PELLET-IKAN-DISCUS-COLORFUL-PRIME-ONE-FISH-i.859418618.19053641406?sp_atk=f7bb66f6-9d29-4d22-8281-c06bea023bf6&xptdk=f7bb66f6-9d29-4d22-",
     },
   ],
 };

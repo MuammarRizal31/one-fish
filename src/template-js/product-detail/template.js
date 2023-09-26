@@ -84,7 +84,7 @@ export const templateDetailPage = (image, title, deskripsi, nutrisi, komposisi, 
   </div>
   `;
 };
-export const templateDetailPageFungsi = (image, title, deskripsi, fungsi, nutrisi, komposisi, caraPakai, typeNetto, link) => {
+export const templateDetailPageFungsi = (image, title, deskripsi, fungsi, nutrisi, komposisi, caraPakai, typeNetto, linkTokped, linkShopee) => {
   return `
   <div class="container">
     <div class="row">
@@ -123,14 +123,14 @@ export const templateDetailPageFungsi = (image, title, deskripsi, fungsi, nutris
           <p>${typeNetto}</p>
         </div>
 
-        <div class="row d-flex justify-content-around">
+        <div class="row d-flex justify-content-around mb-3">
           <div class="col-3 text-align-center">
-            <a href="${link}">
+            <a href="${linkTokped}">
               <img src="./icons/logo-tokped.png" alt="logo tokped"/>
             </a>
           </div>
           <div class="col-3 text-align-center">
-            <a href="${link}">
+            <a href="${linkShopee}">
               <img src="./icons/logo-shopee.png" alt="logo shopee"/>
             </a>
           </div>

@@ -27,6 +27,8 @@ const shrimpDetail = {
       Netto :
       1. 60 gram
       `,
+      linkTokped: "https://www.tokopedia.com/peletonefish/pakan-ikan-blue-shrimp-prime-one-fish?extParam=whid%3D14279589",
+      linkShopee: "https://shopee.co.id/PAKAN-IKAN-BLUE-SHRIMP-PRIME-i.859418618.22042938356?sp_atk=5ad62282-c3f4-4a1b-bdbc-ef2df0255df0&xptdk=5ad62282-c3f4-4a1b-bdbc-",
     },
   ],
   "shrimp-red": [
@@ -51,6 +53,8 @@ const shrimpDetail = {
       Netto :
       1. 60 gram
       `,
+      linkTokped: "https://www.tokopedia.com/peletonefish/pakan-ikan-red-shrimp-prime-one-fish?extParam=whid%3D14279589",
+      linkShopee: "https://shopee.co.id/PAKAN-IKAN-RED-SHRIMP-PRIME-i.859418618.20679966851?sp_atk=e883acf8-fe3e-442f-968f-1d5f9ca8b280&xptdk=e883acf8-fe3e-442f-968f-",
     },
   ],
   "shrimp-yellow": [
@@ -75,6 +79,8 @@ const shrimpDetail = {
       Netto :
       1. 60 gram
       `,
+      linkTokped: "https://www.tokopedia.com/peletonefish/pakan-ikan-yellow-shrimp-prime-one-fish?extParam=whid%3D14279589",
+      linkShopee: "https://shopee.co.id/PAKAN-IKAN-YELLOW-SHRIMP-PRIME-i.859418618.22268420725?sp_atk=cc541662-a96a-4e92-a3cc-e64e4fef9acb&xptdk=cc541662-a96a-4e92-a3cc-",
     },
   ],
   "shrimp-green": [
@@ -99,6 +105,8 @@ const shrimpDetail = {
       Netto :
       1. 60 gram
       `,
+      linkTokped: "https://www.tokopedia.com/peletonefish/pakan-ikan-green-shrimp-prime-one-fish?extParam=whid%3D14279589",
+      linkShopee: "https://shopee.co.id/PAKAN-IKAN-GREEN-SHRIMP-PRIME-i.859418618.17397512966?sp_atk=bcf4a99a-786b-4d4a-8d42-abbdbcc5e258&xptdk=bcf4a99a-786b-4d4a-8d42-",
     },
   ],
 };

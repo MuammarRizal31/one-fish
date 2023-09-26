@@ -25,6 +25,8 @@ const dataCichlidDetail = {
             Netto : <br/>
                 1. 100 gram - S 
           `,
+      linkTokped: "https://www.tokopedia.com/peletonefish/pellet-ikan-cichlid-blue-prime-one-fish-s?extParam=whid%3D14279589",
+      linkShopee: "https://shopee.co.id/PELLET-IKAN-CICHLID-BLUE-PRIME-ONE-FISH-i.859418618.20053512184?sp_atk=a52c5367-304f-4722-85e2-bafde17229c6&xptdk=a52c5367-304f-4722-85e2-",
     },
   ],
   "cichlid-yellow-prime": [
@@ -49,6 +51,8 @@ const dataCichlidDetail = {
         Netto : <br/>
             1. 100 gram - S 
         `,
+      linkTokped: "https://www.tokopedia.com/peletonefish/pellet-ikan-cichlid-yellow-prime-one-fish-s?extParam=whid%3D14279589",
+      linkShopee: "https://shopee.co.id/PELLET-IKAN-CICHLID-YELLOW-PRIME-ONE-FISH-i.859418618.20353512379?sp_atk=340c9002-64cd-40e2-aa7f-bc2fd3cf1a67&xptdk=340c9002-64cd-40e2-",
     },
   ],
   "cichlid-red-prime": [
@@ -73,6 +77,8 @@ const dataCichlidDetail = {
         Netto : <br/>
             1. 100 gram - S 
           `,
+      linkTokped: "https://shopee.co.id/PELLET-IKAN-CHANNA-COLORFUL-PRIME-ONE-FISH-i.859418618.21653506752?sp_atk=e94b9a6f-7190-42a0-98a5-e640e68fbd68&xptdk=e94b9a6f-7190-",
+      linkShopee: "https://shopee.co.id/PELLET-IKAN-CICHLID-RED-PRIME-ONE-FISH-i.859418618.20253513686?sp_atk=e1d7aed3-e29b-4e17-af29-556c75ab7dc6&xptdk=e1d7aed3-e29b-4e17-",
     },
   ],
 };

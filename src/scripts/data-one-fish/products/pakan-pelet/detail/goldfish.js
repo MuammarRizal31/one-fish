@@ -27,6 +27,8 @@ const dataGoldfishDetail = {
         Netto : <br/>
             1. 100 gram - M Rp 23.000
         `,
+      linkTokped: "https://www.tokopedia.com/peletonefish/pellet-ikan-koki-goldfish-bulk-prime-one-fish-m?extParam=whid%3D14279589",
+      linkShopee: "https://shopee.co.id/PELLET-IKAN-KOKI-GOLDFISH-BULK-PRIME-ONE-FISH-i.859418618.18953644091?sp_atk=2aed50b9-ee56-4c82-8623-8575486b7f69&xptdk=2aed50b9-ee56-",
     },
   ],
   "goldfish-color-prime": [
@@ -50,6 +52,8 @@ const dataGoldfishDetail = {
         Netto : <br/>
             1. 100 gram - M Rp 23.000
         `,
+      linkTokped: "https://www.tokopedia.com/peletonefish/pellet-ikan-koki-goldfish-color-prime-one-fish?extParam=whid%3D14279589",
+      linkShopee: "https://shopee.co.id/PELLET-IKAN-KOKI-GOLDFISH-COLOR-PRIME-ONE-FISH-i.859418618.18953643461?sp_atk=010673cc-0ae0-4f72-a728-4b765bc327d9&xptdk=010673cc-0ae0-",
     },
   ],
   "goldfish-black-prime": [

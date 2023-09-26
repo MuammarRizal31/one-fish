@@ -19,10 +19,10 @@ const Detail = {
     const containerImage = document.querySelector("#image-container__detail");
     const url = UrlParser.parseActiveUrlWithoutCombiner();
     if (dataDetailPakanPelet[url.id]) {
-      dataDetailPakanPelet[url.id].map(({ imageSampul, image, title, deskripsi, fungsi, nutrisi, komposisi, caraPakai, typeNetto }) => {
+      dataDetailPakanPelet[url.id].map(({ imageSampul, image, title, deskripsi, fungsi, nutrisi, komposisi, caraPakai, typeNetto, linkTokped, linkShopee }) => {
         containerImage.innerHTML = heroSectionProduct(imageSampul);
         if (fungsi) {
-          return (container.innerHTML = templateDetailPageFungsi(image, title, deskripsi, fungsi, nutrisi, komposisi, caraPakai, typeNetto));
+          return (container.innerHTML = templateDetailPageFungsi(image, title, deskripsi, fungsi, nutrisi, komposisi, caraPakai, typeNetto, linkTokped, linkShopee));
         }
         return (container.innerHTML = templateDetailPage(image, title, deskripsi, nutrisi, komposisi, caraPakai));
       });

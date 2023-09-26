@@ -26,6 +26,8 @@ const maggotDetail = {
       Netto :
       1. 60 gram
       `,
+      linkTokped: "https://www.tokopedia.com/peletonefish/pakan-ikan-maggot-red-prime-one-fish?extParam=whid%3D14279589",
+      linkShopee: "https://shopee.co.id/PAKAN-IKAN-MAGGOT-RED-PRIME-i.859418618.22768371784?sp_atk=d7cae509-6755-4e36-8985-55da98f97e4e&xptdk=d7cae509-6755-4e36-8985-",
     },
   ],
   "maggot-blue": [
@@ -50,6 +52,8 @@ const maggotDetail = {
       Netto :
       1. 60 gram
       `,
+      linkTokped: "https://www.tokopedia.com/peletonefish/pakan-ikan-maggot-blue-prime-one-fish?extParam=whid%3D14279589",
+      linkShopee: "https://shopee.co.id/PAKAN-IKAN-MAGGOT-BLUE-PRIME-i.859418618.14797490093?sp_atk=58bd8680-cfda-4f54-9e12-f2f468f3b9d7&xptdk=58bd8680-cfda-4f54-9e12-",
     },
   ],
   "maggot-yellow": [
@@ -74,6 +78,8 @@ const maggotDetail = {
       Netto :
       1. 60 gram
       `,
+      linkTokped: "https://www.tokopedia.com/peletonefish/pakan-ikan-maggot-yellow-prime-one-fish?extParam=whid%3D14279589",
+      linkShopee: "https://shopee.co.id/PAKAN-IKAN-MAGGOT-YELLOW-PRIME-i.859418618.23568377602?sp_atk=6ddc8cef-60e0-40b0-83c9-4fa53e49f12f&xptdk=6ddc8cef-60e0-40b0-83c9-",
     },
   ],
   "maggot-green": [
@@ -98,6 +104,8 @@ const maggotDetail = {
       Netto :
       1. 60 gram
       `,
+      linkTokped: "https://www.tokopedia.com/peletonefish/pakan-ikan-maggot-green-prime-one-fish?extParam=whid%3D14279589",
+      linkShopee: "https://shopee.co.id/PAKAN-IKAN-MAGGOT-GREEN-PRIME-i.859418618.19388901830?sp_atk=7bd4831a-6add-4153-a629-ba728ebe73a6&xptdk=7bd4831a-6add-4153-a629-",
     },
   ],
 };

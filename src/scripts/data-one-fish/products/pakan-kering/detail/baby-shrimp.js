@@ -25,6 +25,8 @@ const babyShrimpDetail = {
       Netto : 
       1. 35 gram 
       `,
+      linkTokped: "https://www.tokopedia.com/peletonefish/pakan-ikan-red-baby-shrimp-prime-one-fish?extParam=whid%3D14279589",
+      linkShopee: "https://shopee.co.id/PAKAN-IKAN-RED-BABY-SHRIMP-PRIME-i.859418618.21879965077?sp_atk=e8d77c63-550f-4979-996b-106072e3e7d9&xptdk=e8d77c63-550f-4979-996b-",
     },
   ],
   "baby-blue-prime": [
@@ -49,6 +51,8 @@ const babyShrimpDetail = {
       Netto : 
       1. 35 gram 
       `,
+      linkTokped: "https://www.tokopedia.com/peletonefish/pakan-ikan-blue-baby-shrimp-prime-one-fish?extParam=whid%3D14279589",
+      linkShopee: "https://shopee.co.id/PAKAN-IKAN-BLUE-BABY-SHRIMP-PRIME-i.859418618.23568415312?sp_atk=b75d1bfa-d058-4ffe-97d6-a80fe2bb3588&xptdk=b75d1bfa-d058-4ffe-97d6-",
     },
   ],
   "baby-green-prime": [
@@ -72,6 +76,8 @@ const babyShrimpDetail = {
       Netto : 
       1. 35 gram 
       `,
+      linkTokped: "https://www.tokopedia.com/peletonefish/pakan-ikan-green-baby-shrimp-prime-one-fish?extParam=whid%3D14279589",
+      linkShopee: "https://shopee.co.id/PAKAN-IKAN-GREEN-BABY-SHRIMP-PRIME-i.859418618.23968420931?sp_atk=650fff47-a314-4c71-874d-cae26d8a6eb2&xptdk=650fff47-a314-4c71-874d-",
     },
   ],
   "baby-yellow-prime": [
@@ -96,6 +102,8 @@ const babyShrimpDetail = {
       Netto : 
       1. 35 gram 
       `,
+      linkTokped: "https://www.tokopedia.com/peletonefish/pakan-ikan-yellow-baby-shrimp-prime-one-fish?extParam=whid%3D14279589",
+      linkShopee: "https://shopee.co.id/PAKAN-IKAN-YELLOW-BABY-SHRIMP-PRIME-i.859418618.23442930756?sp_atk=0e52da92-291e-4d85-a09c-bfc11812e5ac&xptdk=0e52da92-291e-4d85-a09c-",
     },
   ],
 };

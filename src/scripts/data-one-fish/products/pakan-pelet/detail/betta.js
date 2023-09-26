@@ -22,6 +22,8 @@ const bettaDetail = {
             Type : Micro Pellet <br/>
                 Netto : <br/>
                 1. 50 gram - S `,
+      linkTokped: "https://www.tokopedia.com/peletonefish/pellet-ikan-betta-cupang-red-prime-one-fish-s?extParam=whid%3D14279589",
+      linkShopee: "https://shopee.co.id/PELLET-IKAN-BETTA-CUPANG-RED-PRIME-ONE-FISH-i.859418618.18153516205?sp_atk=9d1222bd-a624-4174-bd3f-5fa77286cfda&xptdk=9d1222bd-a624-",
     },
   ],
   "betta-multicolor-prime": [
@@ -43,6 +45,8 @@ const bettaDetail = {
         Type : Micro Pellet <br/>
             Netto : <br/>
             1. 50 gram - S `,
+      linkTokped: "https://www.tokopedia.com/peletonefish/pellet-ikan-betta-cupang-multicolor-prime-one-fish-s?extParam=whid%3D14279589",
+      linkShopee: "https://shopee.co.id/PELLET-IKAN-BETTA-CUPANG-MULTICOLOR-PRIME-ONE-FISH-i.859418618.18453641063?sp_atk=e90d32f8-ccf0-4ba6-9fa2-905bc0b0a703&xptdk=e90d32f8-",
     },
   ],
   "betta-blue-prime": [
@@ -63,6 +67,8 @@ const bettaDetail = {
         Type : Micro Pellet <br/>
             Netto : <br/>
             1. 50 gram - S `,
+      linkTokped: "https://www.tokopedia.com/peletonefish/pellet-ikan-betta-cupang-blue-prime-one-fish-s?extParam=whid%3D14279589",
+      linkShopee: "https://shopee.co.id/PELLET-IKAN-BETTA-CUPANG-BLUE-PRIME-ONE-FISH-i.859418618.19553641024?sp_atk=4ffec1a1-f628-40a6-93c0-303ac56ca4c4&xptdk=4ffec1a1-f628-40a6-",
     },
   ],
   "betta-yellow-prime": [
@@ -83,6 +89,8 @@ const bettaDetail = {
             Netto : <br/>
             1. 50 gram - S 
         `,
+      likTokped: "https://www.tokopedia.com/peletonefish/pellet-ikan-betta-cupang-yellow-prime-one-fish-s?extParam=whid%3D14279589",
+      linkShopee: "https://shopee.co.id/PELLET-IKAN-BETTA-CUPANG-YELLOW-PRIME-ONE-FISH-i.859418618.21353512336?sp_atk=7ae3df5a-cf2f-4f9e-9093-2f831409b7e8&xptdk=7ae3df5a-cf2f-",
     },
   ],
 };

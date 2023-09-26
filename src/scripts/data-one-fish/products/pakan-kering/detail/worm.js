@@ -26,6 +26,8 @@ const wormDetail = {
       Netto :
       1. 70 gram
       `,
+      linkTokped: "https://www.tokopedia.com/peletonefish/pakan-ikan-red-worm-prime-one-fish?extParam=whid%3D14279589",
+      linkShopee: "https://shopee.co.id/PAKAN-IKAN-RED-WORM-PRIME-i.859418618.23868419533?sp_atk=f27ec3c8-0fd0-48c2-a428-a3afc366f1df&xptdk=f27ec3c8-0fd0-48c2-a428-a3afc366f1df",
     },
   ],
   "worm-blue": [
@@ -49,6 +51,8 @@ const wormDetail = {
       Netto :
       1. 70 gram
       `,
+      linkTokped: "https://www.tokopedia.com/peletonefish/pakan-ikan-blue-worm-prime-one-fish?extParam=whid%3D14279589",
+      linkShopee: "https://shopee.co.id/PAKAN-IKAN-BLUE-WORM-PRIME-i.859418618.23442932112?sp_atk=499036c7-0638-4fc6-8ecc-8f15245f5607&xptdk=499036c7-0638-4fc6-8ecc-8f15245f5607",
     },
   ],
   "worm-yellow": [
@@ -72,6 +76,8 @@ const wormDetail = {
       Netto :
       1. 70 gram
       `,
+      linkTokped: "https://www.tokopedia.com/peletonefish/pakan-ikan-yellow-worm-prime-one-fish?extParam=whid%3D14279589",
+      linkShopee: "https://shopee.co.id/PAKAN-IKAN-YELLOW-WORM-PRIME-i.859418618.23168415928?sp_atk=5659be86-e316-4ecc-94b5-bc5ca2b388e0&xptdk=5659be86-e316-4ecc-94b5-",
     },
   ],
   "worm-green": [
@@ -95,6 +101,8 @@ const wormDetail = {
       Netto :
       1. 70 gram
       `,
+      linkTokped: "https://www.tokopedia.com/peletonefish/pakan-ikan-green-worm-prime-one-fish?extParam=whid%3D14279589",
+      linkShopee: "https://shopee.co.id/PAKAN-IKAN-GREEN-WORM-PRIME-i.859418618.17594705550?sp_atk=3741d262-ea6d-48fd-bb35-c42d81be8bd9&xptdk=3741d262-ea6d-48fd-bb35-",
     },
   ],
 };
