@@ -12,9 +12,7 @@ class CardsNews extends HTMLElement {
 
                 <div class="col-12 col-md-5">
                     <div class="image-news">
-                        <a href="#">
-                            <img src="./news/Kalikan 1.jpeg" />
-                        </a>
+                        <img src="./news/Kalikan 1.jpeg" />
                     </div>
                 </div>
                 
@@ -27,7 +25,7 @@ class CardsNews extends HTMLElement {
                         </div>
                         
                         <div class="link-title__news mt-0">
-                            <a href="#" class="text-one-fish">Kalikan EXPO</a>
+                            <span  class="text-one-fish">Kalikan EXPO</span>
                             <div class="garis mb-3"></div>
                         </div>
 
@@ -55,9 +53,7 @@ class CardsNews extends HTMLElement {
 
             <div class="col-12 col-md-5">
                 <div class="image-news">
-                    <a href="#">
-                        <img src="./news/sertifikat-flaring.png" alt="sertifikat flaring"/>
-                    </a>
+                    <img src="./news/sertifikat-flaring.png" alt="sertifikat flaring"/>
                 </div>
             </div>
             
@@ -70,7 +66,7 @@ class CardsNews extends HTMLElement {
                     </div>
                     
                     <div class="link-title__news mt-0">
-                        <a href="#" class="text-one-fish">Pelet One Fish Support Mini Contest Flaring Together </a>
+                        <span class="text-one-fish">Pelet One Fish Support Mini Contest Flaring Together </span>
                         <div class="garis mb-3"></div>
                     </div>
 
@@ -92,9 +88,7 @@ class CardsNews extends HTMLElement {
 
         <div class="col-12 col-md-5">
             <div class="image-news">
-                <a href="#">
-                    <img src="./news/sertifikat-siliwangi.png"/>
-                </a>
+                <img src="./news/sertifikat-siliwangi.png"/>
             </div>
         </div>
         
@@ -107,7 +101,7 @@ class CardsNews extends HTMLElement {
                 </div>
                 
                 <div class="link-title__news mt-0">
-                    <a href="#" class="text-one-fish">Pelet One Fish Support Siliwangi Channa Contest 2 </a>
+                    <span class="text-one-fish">Pelet One Fish Support Siliwangi Channa Contest 2 </span>
                     <div class="garis mb-3"></div>
                 </div>
 
@@ -133,9 +127,7 @@ class CardsNews extends HTMLElement {
 
         <div class="col-12 col-md-5">
             <div class="image-news">
-                <a href="#">
-                    <img src="./news/sertifikat-silver.png"/>
-                </a>
+                <img src="./news/sertifikat-silver.png"/>
             </div>
         </div>
         
@@ -148,7 +140,7 @@ class CardsNews extends HTMLElement {
                 </div>
                 
                 <div class="link-title__news mt-0">
-                    <a href="#" class="text-one-fish">Pelet One Fish Support Bekasi Snakehead Club</a>
+                    <span class="text-one-fish">Pelet One Fish Support Bekasi Snakehead Club</span>
                     <div class="garis mb-3"></div>
                 </div>
 

@@ -24,7 +24,7 @@ const ContactUs = {
                 <div class="garis"></div>
             </div>
 
-            <div class="col-12 col-md-4"> 
+            <div class="col-12 col-md-5"> 
               <img src="./icon-one-fish.jpeg"/>
             </div>
 
@@ -53,8 +53,8 @@ const ContactUs = {
         </div>
     </div>
 
-    <div class="container">
-    <form action="proses-form.php" method="post">
+    <div class="container mt-3">
+    <form>
       <div class="row">
       <div class="col-md-6">
           <div class="form-group">

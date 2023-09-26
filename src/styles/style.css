@@ -281,6 +281,46 @@ img {
 .w-email {
   width: 250px;
 }
+.social-media {
+  color: black;
+  font-size: 0.9rem;
+  text-decoration: none;
+}
+.social-media:hover {
+  text-decoration: underline;
+}
+
+.whatsapp-float {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 1000; /* Untuk memastikan tombol melayang di atas konten lain */
+}
+
+.whatsapp-float a {
+  display: block;
+  background-color: #25d366; /* Warna latar belakang WhatsApp */
+  color: #fff; /* Warna teks */
+  font-size: 16px;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 50%;
+  transition: background-color 0.3s;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.whatsapp-float a:hover {
+  background-color: #128c7e; /* Warna latar belakang saat hover */
+}
+
+/* Style untuk gambar ikon WhatsApp */
+.whatsapp-float img {
+  width: 40px;
+  height: 40px;
+  vertical-align: middle;
+}
+
 .w-sosial-media {
   width: 30px;
   height: 30px;

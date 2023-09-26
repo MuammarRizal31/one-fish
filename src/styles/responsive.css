@@ -11,6 +11,19 @@
 }
 /* dekstop */
 @media screen and (max-width: 768px) {
+  .social-media > span {
+    display: none;
+  }
+  .whatsapp-float {
+    display: block;
+  }
+
+  #whatsapp-widget {
+    display: none;
+  }
+  .whatsapp-icon {
+    display: block;
+  }
   .navbar-responsive {
     display: flex;
     flex-direction: column;
