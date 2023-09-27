@@ -7,7 +7,7 @@ class News extends HTMLElement {
         <div class="container container-carousel my-3">
             <div class="title-with-line">
                 <div class="line"></div>
-                    <h2 class="title mb-3 text-one-fish">NEWS ONEFISH</h2>
+                    <h2 class="title mb-3 text-one-fish">News One-Fish</h2>
                 <div class="line"></div>
             </div>
         </div>
