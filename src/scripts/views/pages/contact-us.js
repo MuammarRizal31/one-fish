@@ -54,7 +54,7 @@ const ContactUs = {
     </div>
 
     <div class="container mt-3">
-    <form>
+    <form id="contactForm">
       <div class="row">
       <div class="col-md-6">
           <div class="form-group">
@@ -91,7 +91,7 @@ const ContactUs = {
       </div>
       <div class="row">
         <div class="col-md-12 mt-3">
-          <button type="submit" class="btn btn-primary">Kirim Pesan</button>
+          <input type="submit" class="btn btn-primary" value="Kirim Pesan"/>
         </div>
       </div>
     </form>

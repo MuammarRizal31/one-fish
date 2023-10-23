@@ -1,13 +1,17 @@
+import "regenerator-runtime";
+import CacheHelper from "./utils/cache-helper";
+
+// Daftar asset yang akan dicaching
+const assetsToCache = ["./", "./icons/*", "./index.html", "./app.bundle.js", "./app.webmanifest", "./sw.bundle.js"];
+
 self.addEventListener("install", (event) => {
-  console.log("installing service worker");
+  event.waitUntil(CacheHelper.cachingAppShell([...assetsToCache]));
 });
 
 self.addEventListener("activate", (event) => {
-  console.log("service worker activated");
+  event.waitUntil(CacheHelper.deleteOldCache());
 });
 
 self.addEventListener("fetch", (event) => {
-  // console.log(event.request);
-  // event.respondWith(fetch(event.request));
-  // TODO: Add/get fetch request to/from caches
+  event.respondWith(CacheHelper.revalidateCache(event.request));
 });
