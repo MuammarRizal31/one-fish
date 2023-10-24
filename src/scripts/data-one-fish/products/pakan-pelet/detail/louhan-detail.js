@@ -10,7 +10,8 @@ const louhanDetail = {
       imageSampul: sampulImage,
       image: louhanImageSection1,
       title: "Louhan Pearl Prime",
-      deskripsi: "One Fish Pearl Prime Louhan Pellet merupakan pakan ikan Louhan yang terbuat dari bahan berkualitas tinggi dan memiliki protein penting untuk pertumbuhan louhan agar ",
+      deskripsi:
+        "OOne Fish Pearl Prime Louhan Pellet merupakan pakan ikan Louhan yang terbuat dari bahan berkualitas tinggi dan memiliki protein penting untuk pertumbuhan louhan agar tetap sehat. Mengandung Best Formula & Spirulina untuk meningkatkan mutiara pada louhan agar lebih bersinar.",
       fungsi: ` 1. Meningkatkan mutiara pada Louhan dengan maksimal <br />
                 2. Memberikan kecerahan dan warna pada Louhan`,
       nutrisi: "Protein 42%, Fat 6%, Fibre 4%, Ash 6%, Moisture 10%",

@@ -57,7 +57,7 @@ class CardsNews extends HTMLElement {
                 </div>
             </div>
             
-            <div class="col-12 col-md-7">
+            <div class="col-12 col-md-7 d-flex justify-content-center align-items-center">
                 <div class="description-news">
                     <figure>
 
@@ -88,11 +88,11 @@ class CardsNews extends HTMLElement {
 
         <div class="col-12 col-md-5">
             <div class="image-news">
-                <img src="./news/sertifikat-siliwangi.png"/>
+                <img src="./news/sertifikat-siliwangi.png" alt="sertifikat siliwangi"/>
             </div>
         </div>
         
-        <div class="col-12 col-md-7">
+        <div class="col-12 col-md-7 d-flex justify-content-center align-items-center">
             <div class="description-news">
                 <figure>
 
@@ -131,7 +131,7 @@ class CardsNews extends HTMLElement {
             </div>
         </div>
         
-        <div class="col-12 col-md-7">
+        <div class="col-12 col-md-7 d-flex justify-content-center align-items-center">
             <div class="description-news">
                 <figure>
 

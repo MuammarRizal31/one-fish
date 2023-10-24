@@ -277,7 +277,7 @@ export const dataFish = {
       img: imageLohanPrime,
       url: "louhan-collor-prime",
       sampul: sampulImageLouhan,
-      title: "SPECIAL LOUHAN SERIES",
+      title: "SPECIAL ONE FISH LOUHAN",
     },
     {
       nama: "LOUHAN GROWTH PRIME",
@@ -285,7 +285,7 @@ export const dataFish = {
       img: imageGrowthPrime,
       url: "louhan-growth-prime",
       sampul: sampulImageLouhan,
-      title: "SPECIAL LOUHAN SERIES",
+      title: "SPECIAL ONE FISH LOUHAN",
     },
     {
       nama: "LOUHAN HEAD PRIME",
@@ -293,7 +293,7 @@ export const dataFish = {
       img: imageHeadPrime,
       url: "louhan-head-prime",
       sampul: sampulImageLouhan,
-      title: "SPECIAL LOUHAN SERIES",
+      title: "SPECIAL ONE FISH LOUHAN",
     },
     {
       nama: "LOUHAN PEARL PRIME",
@@ -301,7 +301,7 @@ export const dataFish = {
       img: imagePearlPrime,
       url: "louhan-pearl-prime",
       sampul: sampulImageLouhan,
-      title: "SPECIAL LOUHAN SERIES",
+      title: "SPECIAL ONE FISH LOUHAN",
     },
   ],
   betta: [
